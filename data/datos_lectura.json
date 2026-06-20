@@ -1,0 +1,290 @@
+[
+  {
+    "ID LECTURA": 52866,
+    "GRADO": 1,
+    "Estrategia silábica": "en proceso",
+    "Manejo del ritmo": "inicial",
+    "Manejo de la respiracion": "inicial",
+    "Precisión": "inicial",
+    "Fluidez (p/m)": 14
+  },
+  {
+    "ID LECTURA": 52863,
+    "GRADO": 1,
+    "Estrategia silábica": "logrado",
+    "Manejo del ritmo": "inicial",
+    "Manejo de la respiracion": "en proceso",
+    "Precisión": "logrado",
+    "Fluidez (p/m)": 50
+  },
+  {
+    "ID LECTURA": 52862,
+    "GRADO": 1,
+    "Estrategia silábica": "logrado",
+    "Manejo del ritmo": "inicial",
+    "Manejo de la respiracion": "en proceso",
+    "Precisión": "en proceso",
+    "Fluidez (p/m)": 24
+  },
+  {
+    "ID LECTURA": 52859,
+    "GRADO": 1,
+    "Estrategia silábica": "en proceso",
+    "Manejo del ritmo": "inicial",
+    "Manejo de la respiracion": "en proceso",
+    "Precisión": "en proceso",
+    "Fluidez (p/m)": 23.1
+  },
+  {
+    "ID LECTURA": 52860,
+    "GRADO": 1,
+    "Estrategia silábica": "logrado",
+    "Manejo del ritmo": "en proceso",
+    "Manejo de la respiracion": "logrado",
+    "Precisión": "logrado",
+    "Fluidez (p/m)": 63.2
+  },
+  {
+    "ID LECTURA": 52861,
+    "GRADO": 1,
+    "Estrategia silábica": "en proceso",
+    "Manejo del ritmo": "inicial",
+    "Manejo de la respiracion": "inicial",
+    "Precisión": "en proceso",
+    "Fluidez (p/m)": 22.2
+  },
+  {
+    "ID LECTURA": 52855,
+    "GRADO": 1,
+    "Estrategia silábica": "logrado",
+    "Manejo del ritmo": "logrado",
+    "Manejo de la respiracion": "logrado",
+    "Precisión": "avanzado",
+    "Fluidez (p/m)": 120
+  },
+  {
+    "ID LECTURA": 52854,
+    "GRADO": 1,
+    "Estrategia silábica": "inicial",
+    "Manejo del ritmo": "inicial",
+    "Manejo de la respiracion": "inicial",
+    "Precisión": "inicial",
+    "Fluidez (p/m)": 12.2
+  },
+  {
+    "ID LECTURA": 52949,
+    "GRADO": 2,
+    "Estrategia silábica": "logrado",
+    "Manejo del ritmo": "logrado",
+    "Manejo de la respiracion": "logrado",
+    "Precisión": "en proceso",
+    "Fluidez (p/m)": 51.8
+  },
+  {
+    "ID LECTURA": 52948,
+    "GRADO": 2,
+    "Estrategia silábica": "logrado",
+    "Manejo del ritmo": "en proceso",
+    "Manejo de la respiracion": "logrado",
+    "Precisión": "logrado",
+    "Fluidez (p/m)": 34.3
+  },
+  {
+    "ID LECTURA": 52945,
+    "GRADO": 2,
+    "Estrategia silábica": "logrado",
+    "Manejo del ritmo": "inicial",
+    "Manejo de la respiracion": "en proceso",
+    "Precisión": "en proceso",
+    "Fluidez (p/m)": 28.1
+  },
+  {
+    "ID LECTURA": 52514,
+    "GRADO": 2,
+    "Estrategia silábica": "logrado",
+    "Manejo del ritmo": "inicial",
+    "Manejo de la respiracion": "en proceso",
+    "Precisión": "inicial",
+    "Fluidez (p/m)": 33.4
+  },
+  {
+    "ID LECTURA": 52509,
+    "GRADO": 2,
+    "Estrategia silábica": "logrado",
+    "Manejo del ritmo": "en proceso",
+    "Manejo de la respiracion": "en proceso",
+    "Precisión": "logrado",
+    "Fluidez (p/m)": 58.7
+  },
+  {
+    "ID LECTURA": 52508,
+    "GRADO": 2,
+    "Estrategia silábica": "logrado",
+    "Manejo del ritmo": "en proceso",
+    "Manejo de la respiracion": "en proceso",
+    "Precisión": "logrado",
+    "Fluidez (p/m)": 36.2
+  },
+  {
+    "ID LECTURA": 52495,
+    "GRADO": 2,
+    "Estrategia silábica": "avanzado",
+    "Manejo del ritmo": "en proceso",
+    "Manejo de la respiracion": "logrado",
+    "Precisión": "avanzado",
+    "Fluidez (p/m)": 73.3
+  },
+  {
+    "ID LECTURA": 52491,
+    "GRADO": 2,
+    "Estrategia silábica": "logrado",
+    "Manejo del ritmo": "en proceso",
+    "Manejo de la respiracion": "avanzado",
+    "Precisión": "logrado",
+    "Fluidez (p/m)": 61.4
+  },
+  {
+    "ID LECTURA": 52881,
+    "GRADO": 3,
+    "Estrategia silábica": "avanzado",
+    "Manejo del ritmo": "logrado",
+    "Manejo de la respiracion": "logrado",
+    "Precisión": "logrado",
+    "Fluidez (p/m)": 85.2
+  },
+  {
+    "ID LECTURA": 52880,
+    "GRADO": 3,
+    "Estrategia silábica": "avanzado",
+    "Manejo del ritmo": "avanzado",
+    "Manejo de la respiracion": "avanzado",
+    "Precisión": "avanzado",
+    "Fluidez (p/m)": 114.8
+  },
+  {
+    "ID LECTURA": 52877,
+    "GRADO": 3,
+    "Estrategia silábica": "avanzado",
+    "Manejo del ritmo": "avanzado",
+    "Manejo de la respiracion": "avanzado",
+    "Precisión": "avanzado",
+    "Fluidez (p/m)": 114.8
+  },
+  {
+    "ID LECTURA": 52879,
+    "GRADO": 3,
+    "Estrategia silábica": "avanzado",
+    "Manejo del ritmo": "logrado",
+    "Manejo de la respiracion": "logrado",
+    "Precisión": "avanzado",
+    "Fluidez (p/m)": 114.8
+  },
+  {
+    "ID LECTURA": 52874,
+    "GRADO": 3,
+    "Estrategia silábica": "logrado",
+    "Manejo del ritmo": "logrado",
+    "Manejo de la respiracion": "logrado",
+    "Precisión": "logrado",
+    "Fluidez (p/m)": 82.5
+  },
+  {
+    "ID LECTURA": 52873,
+    "GRADO": 3,
+    "Estrategia silábica": "avanzado",
+    "Manejo del ritmo": "logrado",
+    "Manejo de la respiracion": "logrado",
+    "Precisión": "avanzado",
+    "Fluidez (p/m)": 105.6
+  },
+  {
+    "ID LECTURA": 52872,
+    "GRADO": 3,
+    "Estrategia silábica": "logrado",
+    "Manejo del ritmo": "logrado",
+    "Manejo de la respiracion": "logrado",
+    "Precisión": "logrado",
+    "Fluidez (p/m)": 75.4
+  },
+  {
+    "ID LECTURA": 52813,
+    "GRADO": 3,
+    "Estrategia silábica": "avanzado",
+    "Manejo del ritmo": "avanzado",
+    "Manejo de la respiracion": "avanzado",
+    "Precisión": "logrado",
+    "Fluidez (p/m)": 91
+  },
+  {
+    "ID LECTURA": 52942,
+    "GRADO": 4,
+    "Estrategia silábica": "logrado",
+    "Manejo del ritmo": "inicial",
+    "Manejo de la respiracion": "inicial",
+    "Precisión": "inicial",
+    "Fluidez (p/m)": 34.1
+  },
+  {
+    "ID LECTURA": 52714,
+    "GRADO": 4,
+    "Estrategia silábica": "logrado",
+    "Manejo del ritmo": "inicial",
+    "Manejo de la respiracion": "en proceso",
+    "Precisión": "logrado",
+    "Fluidez (p/m)": 75.3
+  },
+  {
+    "ID LECTURA": 52712,
+    "GRADO": 4,
+    "Estrategia silábica": "logrado",
+    "Manejo del ritmo": "logrado",
+    "Manejo de la respiracion": "logrado",
+    "Precisión": "inicial",
+    "Fluidez (p/m)": 85.3
+  },
+  {
+    "ID LECTURA": 52702,
+    "GRADO": 4,
+    "Estrategia silábica": "avanzado",
+    "Manejo del ritmo": "logrado",
+    "Manejo de la respiracion": "avanzado",
+    "Precisión": "logrado",
+    "Fluidez (p/m)": 104.5
+  },
+  {
+    "ID LECTURA": 52701,
+    "GRADO": 4,
+    "Estrategia silábica": "logrado",
+    "Manejo del ritmo": "avanzado",
+    "Manejo de la respiracion": "avanzado",
+    "Precisión": "logrado",
+    "Fluidez (p/m)": 111.7
+  },
+  {
+    "ID LECTURA": 52628,
+    "GRADO": 4,
+    "Estrategia silábica": "logrado",
+    "Manejo del ritmo": "inicial",
+    "Manejo de la respiracion": "en proceso",
+    "Precisión": "logrado",
+    "Fluidez (p/m)": 73.6
+  },
+  {
+    "ID LECTURA": 52605,
+    "GRADO": 4,
+    "Estrategia silábica": "logrado",
+    "Manejo del ritmo": "logrado",
+    "Manejo de la respiracion": "logrado",
+    "Precisión": "logrado",
+    "Fluidez (p/m)": 83.1
+  },
+  {
+    "ID LECTURA": 52603,
+    "GRADO": 4,
+    "Estrategia silábica": "logrado",
+    "Manejo del ritmo": "logrado",
+    "Manejo de la respiracion": "en proceso",
+    "Precisión": "logrado",
+    "Fluidez (p/m)": 77.9
+  }
+]

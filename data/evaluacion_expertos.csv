@@ -1,0 +1,46 @@
+﻿"Objetivo: Escuchar el audio correspondiente a partir del id de la lectura y llenar: ""Estrategia silábica"", ""Manejo del Ritmo"" y ""Precisión"" teniendo en cuenta la rúbrica de evaluación que está a la derecha. Aclaración: la evaluación es independiente del grado en el cuál se encuentra el alumno. Es decir, que capaz evaluan a todos los del primer grado como ""Inicial"" y es correcto ya que se mide con la misma bara independiente del grado.";;;;;;;;;;;;
+;;;;;;;;Rúbrica para evaluación;;;;
+ID LECTURA;GRADO;Estrategia silábica;Manejo del ritmo;Manejo de la respiracion;Precisión;Fluidez (p/m);; ;INICIAL;EN PROCESO;LOGRADO;AVANZADO
+52866;1;en proceso;inicial;inicial;inicial;14;;Estrategia silábica;Aún no logra asociar los sonidos en una sílaba.;Puede asociar consonantes continuar con vocales y empezar a leer sílabas;Utiliza la estrategia silábica para la lectura.;No necesita utilizar la estrategia silábica.
+52863;1;logrado;inicial;en proceso;logrado;50;;Manejo del ritmo;Lee en forma silabeante y sin entonar.;Lee en forma monótona pero sin silabear las palabras.;Entona para abajo en los puntos y comas.;Lee el texto con un adecuado cambio de entonación.
+52862;1;logrado;inicial;en proceso;en proceso;24;;Manejo de la respiración;No hace pausas en puntos y comas.;Realiza pausas entre palabra y palabra.;Hace pausas en puntas y comas.;Hace pausas en puntos, comas y antes de palabras cortas, cuando las oraciones son muy largas.
+52859;1;en proceso;inicial;en proceso;en proceso;23.1;;Precisión ;Cambia letras por otras: sustituye, omite o añade letras.;Cambia palabras por otras o adivina en forma incorrecta.;Logra leer oraciones cometiendo uno o dos errores aislados, no fonológicos.;Logra leer párrafos o textos sin errores.
+52860;1;logrado;en proceso;logrado;logrado;63.2;;Fluidez (p/m);Etapa Fonológica (1 a 49 p/m);Etapa Ortográfica (50 a 70 p/m);Etapa de Transición hacia Expresiva (71 a 90p/m);Etapa Expresiva Consolidada 91 o + p/m
+52861;1;en proceso;inicial;inicial;en proceso;22.2;;;;;;
+52855;1;logrado;logrado;logrado;avanzado;120;;;;;;
+52854;1;inicial;inicial;inicial;inicial;12.2;;;;;;
+52949;2;logrado;logrado;logrado;en proceso;51.8;;;;;;
+52948;2;logrado;en proceso;logrado;logrado;34.3;;;;;;
+52945;2;logrado;inicial;en proceso;en proceso;28.1;;;;;;
+52514;2;logrado;inicial;en proceso;inicial;33.4;;;;;;
+52509;2;logrado;en proceso;en proceso;logrado;58.7;;;;;;
+52508;2;logrado;en proceso;en proceso;logrado;36.2;;;;;;
+52495;2;avanzado;en proceso;logrado;avanzado;73.3;;;;;;
+52491;2;logrado;en proceso;avanzado;logrado;61.4;;;;;;
+52881;3;avanzado;logrado;logrado;logrado;85.2;;;;;;
+52880;3;avanzado;avanzado;avanzado;avanzado;114.8;;;;;;
+52877;3;avanzado;avanzado;avanzado;avanzado;114.8;;;;;;
+52879;3;avanzado;logrado;logrado;avanzado;114.8;;;;;;
+52874;3;logrado;logrado;logrado;logrado;82.5;;;;;;
+52873;3;avanzado;logrado;logrado;avanzado;105.6;;;;;;
+52872;3;logrado;logrado;logrado;logrado;75.4;;;;;;
+52813;3;avanzado;avanzado;avanzado;logrado;91;;;;;;
+52942;4;logrado;inicial;inicial;inicial;34.1;;;;;;
+52714;4;logrado;inicial;en proceso;logrado;75.3;;;;;;
+52712;4;logrado;logrado;logrado;inicial;85.3;;;;;;
+52702;4;avanzado;logrado;avanzado;logrado;104.5;;;;;;
+52701;4;logrado;avanzado;avanzado;logrado;111.7;;;;;;
+52628;4;logrado;inicial;en proceso;logrado;73.6;;;;;;
+52605;4;logrado;logrado;logrado;logrado;83.1;;;;;;
+52603;4;logrado;logrado;en proceso;logrado;77.9;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
