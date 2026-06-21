@@ -1,0 +1,259 @@
+[
+  {
+    "id_lectura": 52854,
+    "archivo": "lectura_52854_2025-10-29_13-42-40.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "error": "El texto proporcionado no coincide con el audio.",
+      "match": false,
+      "similaridad": 0.20276497695852536,
+      "transcripcion": "y fuerte la y o el muy muy a y al y de de de de de y la y y el el el mi o am o el o el el el el el el el el el el el"
+    },
+    "timestamp": "2026-06-21T15:33:03.922895"
+  },
+  {
+    "id_lectura": 52855,
+    "archivo": "lectura_52855_2025-10-29_13-44-16.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 0.9853658536585366,
+      "transcripcion": "Los perros tienen muy buen olfato y el oído es un animal inteligente y Fiel es el mejor amigo del hombre.",
+      "palabras_por_minuto": 117.65,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "El alumno ha superado por completo la estrategia silábica. Realiza una lectura global y automatizada de las palabras sin presentar dificultades de decodificación."
+        },
+        "manejo_ritmo": {
+          "nivel": "En proceso",
+          "comentario": "Lee con un ritmo continuo pero monótono y acelerado. Al no respetar la puntuación, no realiza la entonación descendente característica de los puntos seguidos."
+        },
+        "manejo_respiracion": {
+          "nivel": "Inicial",
+          "comentario": "No realiza pausas en los puntos seguidos. Une el final de una oración con el inicio de la siguiente (ej. 'y el oído es...', 'fiel es el mejor...') sin detenerse a respirar."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Comete un único error menor de adición al incorporar el artículo 'el' antes de 'oído' ('y el oído'), manteniendo una excelente precisión en el resto de las palabras."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "Con 117.6 palabras por minuto (WPM), el alumno se posiciona sólidamente en la Etapa Expresiva Consolidada, demostrando una velocidad lectora muy alta."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:33:21.976841"
+  },
+  {
+    "id_lectura": 52859,
+    "archivo": "lectura_52859_2025-10-29_14-22-06.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 0.7692307692307693,
+      "transcripcion": "Los perros tienen un buen olfato y un olfato es un animal inteligente y funciona bien y es un buen amigo de la comunidad.",
+      "palabras_por_minuto": 23.09,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El estudiante utiliza activamente la decodificación silábica como su estrategia principal para leer y reconstruir palabras complejas (por ejemplo, al segmentar 'ol-fato', 'in-te-li-gen-te' u 'om-bre')."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "La lectura es marcadamente silabeante, pausada y carece por completo de entonación o expresividad musical en el fraseo."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Se observan pausas sistemáticas entre palabra y palabra, lo que segmenta el texto en exceso e impide una regulación de la respiración basada en la estructura sintáctica o en los signos de puntuación."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "El estudiante tiende a sustituir palabras o a adivinar en función del inicio de la palabra, cambiando 'muy' por 'un', 'mejor' por 'mujer', y presentando dificultades importantes en palabras como 'animal' y 'oído'."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "Con 23.1 palabras por minuto, el estudiante se ubica en el rango inicial (Etapa Fonológica), donde el esfuerzo cognitivo principal aún se centra en la decodificación de grafemas a fonemas."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:33:43.707659"
+  },
+  {
+    "id_lectura": 52860,
+    "archivo": "lectura_52860_2025-10-29_14-24-26.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 0.9801980198019802,
+      "transcripcion": "Los perros tienen muy buen olfato, o odio es un animal inteligente y fiel, es el mejor amigo del hombre.",
+      "palabras_por_minuto": 63.49,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "El estudiante demuestra una lectura global y directa de las palabras, prescindiendo de la fragmentación silábica, lo que evidencia una ruta fonológica consolidada en la mayoría del texto."
+        },
+        "manejo_ritmo": {
+          "nivel": "En proceso",
+          "comentario": "La lectura mantiene un tono plano y monótono. Se requiere trabajar en la entonación para reflejar mejor el sentido de las oraciones."
+        },
+        "manejo_respiracion": {
+          "nivel": "Inicial",
+          "comentario": "No se observan pausas en los puntos seguidos, uniendo frases de manera continua (por ejemplo, al pasar de 'fiel' a 'Es el mejor') sin detenerse a recuperar el aire."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "El alumno presenta dificultades en la palabra 'oído', realizando sustituciones y vacilaciones ('o odios', 'o odio') al intentar decodificarla."
+        },
+        "fluidez_lectora": {
+          "nivel": "En proceso",
+          "comentario": "Con 63.5 palabras por minuto (WPM), el estudiante se posiciona en la Etapa Ortográfica, mostrando un ritmo adecuado para su nivel de desarrollo pero con espacio para seguir automatizando la lectura."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:34:02.512084"
+  },
+  {
+    "id_lectura": 52861,
+    "archivo": "lectura_52861_2025-10-29_14-21-03.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 0.875,
+      "transcripcion": "Dale. Fuerte. Los perros tienen muy buen olfato y oído. Un animal muy inteligente. Es el mejor amigo del hombre.",
+      "palabras_por_minuto": 22.1,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El estudiante utiliza de forma sistemática la estrategia de decodificación silábica para leer cada palabra. Logra asociar consonantes y vocales de manera correcta para formar las sílabas, aunque aún depende de esta estrategia para completar la lectura."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "La lectura es marcadamente silabeante, lenta y monótona. No se aprecia una entonación adecuada ni prosodia que acompañe el sentido de las oraciones."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Realiza pausas constantes entre palabra y palabra, e incluso entre sílabas, debido al esfuerzo que le requiere la decodificación. Esto impide que respete las pausas normativas de los puntos."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Mantiene una buena precisión en la lectura de las palabras del texto. Comete algún error aislado de vacilación o prolongación de fonemas, pero logra descodificar de forma correcta sin cometer errores fonológicos graves."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "Con una velocidad de 22.1 palabras por minuto, el alumno se encuentra en la Etapa Fonológica. El proceso de lectura consume la mayor parte de sus recursos atencionales en la decodificación básica."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:34:24.104369"
+  },
+  {
+    "id_lectura": 52862,
+    "archivo": "lectura_52862_2025-10-29_14-23-25.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 0.9252336448598131,
+      "transcripcion": "Los perros tienen muy buen olfato y oido. Oido es un animal inteligente y piel es el mejor amigo del hombre. HOMBRE",
+      "palabras_por_minuto": 27.78,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El estudiante utiliza con éxito la estrategia silábica como recurso de apoyo para abordar palabras de mayor complejidad fonológica o extensión, como 'olfato' e 'inteligente', logrando unirlas correctamente tras el silabeo."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "La lectura es predominantemente silabeante y carece de entonación. Se ve afectada por múltiples vacilaciones y autorreparaciones que interrumpen la melodía de la frase."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "El estudiante realiza pausas constantes entre palabra y palabra, supeditando la respiración a las necesidades de decodificación en lugar de respetar los signos de puntuación del texto."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "Presenta vacilaciones e intentos de adivinación a partir de las primeras letras de las palabras (ej. 'olfat y oy' por 'olfato y oído', 'inte' por 'inteligente'), aunque logra autocorregirse de forma autónoma."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "Registra 27.8 palabras por minuto, lo que sitúa al estudiante en la Etapa Fonológica. El proceso lector aún demanda un elevado esfuerzo de decodificación, limitando la velocidad."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:34:45.465587"
+  },
+  {
+    "id_lectura": 52863,
+    "archivo": "lectura_52863_2025-10-29_14-24-00.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 1.0,
+      "transcripcion": "Los perros tienen muy buen olfato y oído, es un animal inteligente y fiel, es el mejor amigo del hombre.",
+      "palabras_por_minuto": 49.63,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El estudiante utiliza de manera sistemática la estrategia silábica para abordar y decodificar palabras complejas como 'olfato', 'inteligente' y 'fiel', logrando un descifrado exitoso de cada término."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "La lectura es marcadamente silabeante, fragmentada y carece de una entonación adecuada, priorizando el esfuerzo de decodificación sobre la prosodia."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "El alumno realiza pausas constantes entre palabra y palabra (e incluso cortes dentro de las mismas palabras) asociadas a la decodificación, en lugar de regular su respiración por los signos de puntuación."
+        },
+        "precision": {
+          "nivel": "Avanzado",
+          "comentario": "A pesar de la lentitud y el marcado silabeo, el estudiante decodifica con total exactitud, sin cometer errores de sustitución, omisión o adición de grafemas."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "Con un registro de 49.6 palabras por minuto (WPM), el estudiante se posiciona en el límite superior de la Etapa Fonológica, requiriendo automatizar procesos de decodificación para ganar velocidad."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:35:04.037231"
+  },
+  {
+    "id_lectura": 52866,
+    "archivo": "lectura_52866_2025-10-29_14-34-25.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 0.6611570247933884,
+      "transcripcion": "Los perros tienen muy buen olfato y Olmo es un muy buen animal y a perder su vida y muerde su vida y y es el mejor animal de el mundo ¡Gracias!",
+      "palabras_por_minuto": 15.19,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El estudiante utiliza la estrategia silábica de manera sistemática y efectiva para decodificar las palabras del texto, logrando realizar la síntesis de los fonemas de forma correcta aunque ralentizada."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "La lectura es marcadamente silabeante, fragmentada y carece de la entonación adecuada, resultando en un tono monótono debido al esfuerzo centrado en la decodificación."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Se observan pausas constantes entre palabra y palabra (e incluso entre sílabas) asociadas al proceso de traducción grafema-fonema, sin respetar la estructura sintáctica ni los signos de puntuación."
+        },
+        "precision": {
+          "nivel": "Avanzado",
+          "comentario": "A pesar de la extrema lentitud y fragmentación, el estudiante logra leer el texto de manera precisa, sin incurrir en sustituciones, omisiones, rotaciones o adiciones de letras."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "Con un registro de 15.2 palabras por minuto (WPM), el alumno se ubica en la Etapa Fonológica, caracterizada por un proceso lector aún no automatizado donde prevalece el mecanismo de decodificación pura."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:35:28.512448"
+  }
+]

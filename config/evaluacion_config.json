@@ -1,0 +1,40 @@
+{
+  "backend": {
+    "url": "http://localhost:8000",
+    "endpoint": "/evaluar-lectura",
+    "timeout_segundos": 60,
+    "max_reintentos": 3
+  },
+  "modelos": [
+    "gemini-flash",
+    "gemini-pro",
+    "openai-audio"
+  ],
+  "grados": {
+    "1": {
+      "nombre": "1er grado",
+      "nombre_salida": "1er-grado",
+      "texto": "Los perros tienen muy buen olfato y oído. Es un animal inteligente y fiel. Es el mejor amigo del hombre."
+    },
+    "2": {
+      "nombre": "2do grado",
+      "nombre_salida": "2do-grado",
+      "texto": "En el sistema solar hay ocho planetas. Marte es el cuarto planeta más cercano al sol. Es el segundo más pequeño. Su color es rojizo. Desde la Tierra se lo puede observar con un telescopio. Hace varios años los científicos investigan si hubo vida en ese planeta."
+    },
+    "3": {
+      "nombre": "3er grado",
+      "nombre_salida": "3er-grado",
+      "texto": "Los dinosaurios son animales que vivieron en la tierra hace muchos años. Eran animales salvajes, muy feroces y peligrosos. El Tiranosaurio Rex era uno de los dinosaurios más conocidos. Era un animal de gran tamaño. Tenía dientes muy filosos y grandes garras para atrapar a sus presas."
+    },
+    "4": {
+      "nombre": "4to grado",
+      "nombre_salida": "4to-grado",
+      "texto": "El búho es un ave de comportamiento nocturno. Por lo tanto, al haber escasez de luz, intercepta a sus presas a través del sonido. Es famoso y conocido por permanecer despierto durante la noche y descansar de día. A diferencia de las lechuzas, los búhos poseen plumas sobre su cabeza que son confundidas con orejas. La lechuza no posee estas plumas."
+    }
+  },
+  "rutas": {
+    "audios_dir": "audios-para-evaluar",
+    "salida_dir": "prueba-1",
+    "datos_json": "data/datos_lectura.json"
+  }
+}

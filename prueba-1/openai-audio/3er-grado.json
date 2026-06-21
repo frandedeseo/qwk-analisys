@@ -1,0 +1,14 @@
+[
+  {
+    "id_lectura": 52873,
+    "archivo": "lectura_52873_2025-10-29_14-49-27.wav",
+    "modelo": "openai-audio",
+    "evaluacion": {
+      "error": "El texto proporcionado no coincide con el audio.",
+      "match": false,
+      "similaridad": 0.1651705565529623,
+      "transcripcion": "Los dinosaurios son animales que vivían en las tierras hace muchos años. Eran animales salvajes, muy feroces y peligrosos. El Tyrannosaurio rex era uno de los dinosaurios más conocidos. Era un animal de gran tamaño, tenía dientes muy filosos y grandes garras para atrapar a sus presas."
+    },
+    "timestamp": "2026-06-21T16:09:26.896399"
+  }
+]

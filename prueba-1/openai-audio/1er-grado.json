@@ -1,0 +1,26 @@
+[
+  {
+    "id_lectura": 52854,
+    "archivo": "lectura_52854_2025-10-29_13-42-40.wav",
+    "modelo": "openai-audio",
+    "evaluacion": {
+      "error": "El texto proporcionado no coincide con el audio.",
+      "match": false,
+      "similaridad": 0.2631578947368421,
+      "transcripcion": "Péstalo. Vale. Fuerte. T. L. Mu. V. C. A. I. O. O. L. C. Mu. A. I. R. I. T. R. I. A. I. I. E. E. E. E. M. E. R. M. M. P. O. L."
+    },
+    "timestamp": "2026-06-21T16:00:55.667775"
+  },
+  {
+    "id_lectura": 52866,
+    "archivo": "lectura_52866_2025-10-29_14-34-25.wav",
+    "modelo": "openai-audio",
+    "evaluacion": {
+      "error": "El texto proporcionado no coincide con el audio.",
+      "match": false,
+      "similaridad": 0.41009463722397477,
+      "transcripcion": "Los perros tienen muy buen olfato y Olmo es un muy buen animal y a pedir su vida y muerde su vida y muerde su vida y muerde su vida y muerde su vida y muerde su vida y muerde su vida y muerde su vida y muerde su vida"
+    },
+    "timestamp": "2026-06-21T16:03:56.090643"
+  }
+]
