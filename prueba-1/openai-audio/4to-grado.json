@@ -1,1 +1,258 @@
-[]
+[
+  {
+    "id_lectura": 52603,
+    "archivo": "lectura_52603_2025-10-24_13-31-33.wav",
+    "modelo": "openai-audio",
+    "evaluacion": {
+      "palabras_por_minuto": 77.71,
+      "modelo": "openai-audio",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El alumno utiliza la estrategia silábica para la lectura, como se observa en la segmentación de palabras complejas."
+        },
+        "manejo_ritmo": {
+          "nivel": "En proceso",
+          "comentario": "Lee en forma monótona pero sin silabear las palabras."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "Hace pausas en puntos y comas, aunque no siempre de manera consistente."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "Cambia palabras por otras o adivina en forma incorrecta, como 'pulumas' en lugar de 'plumas'."
+        },
+        "fluidez_lectora": {
+          "nivel": "Logrado",
+          "comentario": "77.7 palabras por minuto indica una etapa de transición hacia expresiva."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T23:03:24.893182"
+  },
+  {
+    "id_lectura": 52605,
+    "archivo": "lectura_52605_2025-10-24_13-29-49.wav",
+    "modelo": "openai-audio",
+    "evaluacion": {
+      "palabras_por_minuto": 101.21,
+      "modelo": "openai-audio",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "El alumno no necesita utilizar la estrategia silábica, ya que lee palabras completas sin silabear."
+        },
+        "manejo_ritmo": {
+          "nivel": "En proceso",
+          "comentario": "Lee en forma monótona pero sin silabear las palabras."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "Hace pausas en puntos y comas, aunque no antes de palabras cortas en oraciones largas."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "Cambia palabras por otras, como 'búho' por 'hugo' y 'escasez' por 'escasez'."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "101.2 palabras por minuto indica una etapa expresiva consolidada."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T23:03:31.927326"
+  },
+  {
+    "id_lectura": 52628,
+    "archivo": "lectura_52628_2025-10-24_14-31-55.wav",
+    "modelo": "openai-audio",
+    "evaluacion": {
+      "palabras_por_minuto": 82.1,
+      "modelo": "openai-audio",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El alumno utiliza la estrategia silábica para la lectura, aunque no de manera constante."
+        },
+        "manejo_ritmo": {
+          "nivel": "En proceso",
+          "comentario": "Lee de forma monótona pero sin silabear las palabras."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "Hace pausas en puntos y comas, aunque algunas pausas son un poco largas."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Logra leer oraciones cometiendo uno o dos errores aislados, no fonológicos."
+        },
+        "fluidez_lectora": {
+          "nivel": "Logrado",
+          "comentario": "82.1 palabras por minuto indica una etapa de transición hacia expresiva."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T23:03:38.843070"
+  },
+  {
+    "id_lectura": 52701,
+    "archivo": "lectura_52701_2025-10-27_14-28-26.wav",
+    "modelo": "openai-audio",
+    "evaluacion": {
+      "palabras_por_minuto": 125.0,
+      "modelo": "openai-audio",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "No necesita utilizar la estrategia silábica, ya que lee de manera fluida sin descomponer las palabras en sílabas."
+        },
+        "manejo_ritmo": {
+          "nivel": "Avanzado",
+          "comentario": "Lee el texto con un adecuado cambio de entonación, reflejando comprensión de la estructura del texto."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "Hace pausas en puntos y comas, lo que indica un buen manejo de la respiración."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Logra leer oraciones cometiendo uno o dos errores aislados, no fonológicos."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "125 palabras por minuto indican una etapa expresiva consolidada."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T23:03:45.834599"
+  },
+  {
+    "id_lectura": 52702,
+    "archivo": "lectura_52702_2025-10-27_14-27-02.wav",
+    "modelo": "openai-audio",
+    "evaluacion": {
+      "palabras_por_minuto": 117.99,
+      "modelo": "openai-audio",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "No necesita utilizar la estrategia silábica, ya que lee de manera fluida sin descomponer las palabras en sílabas."
+        },
+        "manejo_ritmo": {
+          "nivel": "En proceso",
+          "comentario": "Lee en forma monótona pero sin silabear las palabras."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "Hace pausas en puntos y comas, respetando la estructura del texto."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Logra leer oraciones cometiendo uno o dos errores aislados, no fonológicos."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "118 palabras por minuto indica una etapa expresiva consolidada."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T23:03:52.597250"
+  },
+  {
+    "id_lectura": 52712,
+    "archivo": "lectura_52712_2025-10-27_14-57-44.wav",
+    "modelo": "openai-audio",
+    "evaluacion": {
+      "palabras_por_minuto": 94.28,
+      "modelo": "openai-audio",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "En proceso",
+          "comentario": "El alumno puede asociar consonantes y vocales, pero aún muestra dificultades al leer sílabas completas."
+        },
+        "manejo_ritmo": {
+          "nivel": "En proceso",
+          "comentario": "Lee de forma monótona pero sin silabear las palabras."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "Hace pausas en puntos y comas."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "Cambia palabras por otras o adivina en forma incorrecta, como 'escabece' en lugar de 'escasez'."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "94.3 palabras por minuto indica una etapa expresiva consolidada."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T23:03:59.588360"
+  },
+  {
+    "id_lectura": 52714,
+    "archivo": "lectura_52714_2025-10-27_15-00-06.wav",
+    "modelo": "openai-audio",
+    "evaluacion": {
+      "palabras_por_minuto": 83.33,
+      "modelo": "openai-audio",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "En proceso",
+          "comentario": "El alumno puede asociar consonantes y vocales, pero aún lee algunas palabras en forma silabeante."
+        },
+        "manejo_ritmo": {
+          "nivel": "En proceso",
+          "comentario": "Lee en forma monótona pero sin silabear las palabras."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "Hace pausas en puntos y comas."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Logra leer oraciones cometiendo uno o dos errores aislados, no fonológicos."
+        },
+        "fluidez_lectora": {
+          "nivel": "Logrado",
+          "comentario": "83.3 palabras por minuto indica una etapa de transición hacia expresiva."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T23:04:06.908185"
+  },
+  {
+    "id_lectura": 52942,
+    "archivo": "lectura_52942_2025-11-03_12-42-44.wav",
+    "modelo": "openai-audio",
+    "evaluacion": {
+      "palabras_por_minuto": 38.29,
+      "modelo": "openai-audio",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "En proceso",
+          "comentario": "El alumno puede asociar consonantes y vocales, pero aún lee algunas palabras de forma silabeante."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "Lee en forma silabeante y sin entonar."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Realiza pausas entre palabra y palabra, pero no en puntos y comas."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "Cambia palabras por otras o adivina en forma incorrecta en varias ocasiones."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "38.3 palabras por minuto indica que se encuentra en la etapa fonológica."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T23:04:16.961222"
+  }
+]

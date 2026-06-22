@@ -70,17 +70,32 @@
     "timestamp": "2026-06-21T15:39:14.267809"
   },
   {
-    "id_lectura": 52873,
-    "archivo": "lectura_52873_2025-10-29_14-49-27.wav",
-    "modelo": "gemini-flash",
-    "evaluacion": {
-      "error": "El texto proporcionado no coincide con el audio.",
-      "match": false,
-      "similaridad": 0.1651705565529623,
-      "transcripcion": "Los dinosaurios son animales que vivían en las tierras hace muchos años. Eran animales salvajes, muy feroces y peligrosos. El Tyrannosaurio rex era uno de los dinosaurios más conocidos. Era un animal de gran tamaño, tenía dientes muy filosos y grandes garras para atrapar a sus presas."
+  "id_lectura": 52873,
+  "palabras_por_minuto": 112.71,
+  "modelo": "gemini-flash",
+  "evaluacion": {
+    "estrategia_silabica": {
+      "nivel": "Avanzado",
+      "comentario": "El estudiante lee de forma fluida y directa, sin necesidad de recurrir a la decodificación silábica, lo que demuestra que tiene la lectura de palabras completamente automatizada."
     },
-    "timestamp": "2026-06-21T15:39:17.955772"
-  },
+    "manejo_ritmo": {
+      "nivel": "Avanzado",
+      "comentario": "Muestra un adecuado cambio de entonación respetando la estructura de las oraciones, evitando la monotonía y el silabeo."
+    },
+    "manejo_respiracion": {
+      "nivel": "Logrado",
+      "comentario": "Realiza las pausas de manera correcta en los puntos y comas, estructurando el aire de forma adecuada a lo largo del texto."
+    },
+    "precision": {
+      "nivel": "Logrado",
+      "comentario": "Logra leer la totalidad del texto cometiendo un único error menor no fonológico al agregar una 's' en la palabra 'tierras' ('en la tierras')."
+    },
+    "fluidez_lectora": {
+      "nivel": "Avanzado",
+      "comentario": "Registra 112.7 palabras por minuto, lo que lo sitúa firmemente en la Etapa Expresiva Consolidada para su nivel lector."
+    }
+  }
+},
   {
     "id_lectura": 52874,
     "archivo": "lectura_52874_2025-10-29_14-48-50.wav",

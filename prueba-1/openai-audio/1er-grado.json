@@ -4,23 +4,255 @@
     "archivo": "lectura_52854_2025-10-29_13-42-40.wav",
     "modelo": "openai-audio",
     "evaluacion": {
-      "error": "El texto proporcionado no coincide con el audio.",
-      "match": false,
-      "similaridad": 0.2631578947368421,
-      "transcripcion": "Péstalo. Vale. Fuerte. T. L. Mu. V. C. A. I. O. O. L. C. Mu. A. I. R. I. T. R. I. A. I. I. E. E. E. E. M. E. R. M. M. P. O. L."
+      "palabras_por_minuto": 13.87,
+      "modelo": "openai-audio",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "En proceso",
+          "comentario": "Puede asociar consonantes y vocales, pero aún lee sílabas de forma separada."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "Lee en forma silabeante y sin entonar."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Realiza pausas entre palabra y palabra, pero no en puntos y comas."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "Cambia palabras por otras o adivina en forma incorrecta."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "13.9 palabras por minuto indica que está en la etapa fonológica."
+        }
+      }
     },
-    "timestamp": "2026-06-21T16:00:55.667775"
+    "timestamp": "2026-06-21T23:00:06.582710"
+  },
+  {
+    "id_lectura": 52855,
+    "archivo": "lectura_52855_2025-10-29_13-44-16.wav",
+    "modelo": "openai-audio",
+    "evaluacion": {
+      "palabras_por_minuto": 117.65,
+      "modelo": "openai-audio",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "No necesita utilizar la estrategia silábica, lee de manera fluida."
+        },
+        "manejo_ritmo": {
+          "nivel": "En proceso",
+          "comentario": "Lee en forma monótona pero sin silabear las palabras."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Realiza pausas entre palabra y palabra, pero no necesariamente en puntos y comas."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "Cambia palabras por otras, como 'muy buen' por 'muy buena' y 'el oído' por 'y el oído'."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "117.6 palabras por minuto indica una etapa expresiva consolidada."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T23:00:12.623397"
+  },
+  {
+    "id_lectura": 52859,
+    "archivo": "lectura_52859_2025-10-29_14-22-06.wav",
+    "modelo": "openai-audio",
+    "evaluacion": {
+      "palabras_por_minuto": 23.09,
+      "modelo": "openai-audio",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "En proceso",
+          "comentario": "Puede asociar consonantes y vocales, y empieza a leer sílabas, pero aún no fluye con naturalidad."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "Lee en forma silabeante y sin entonar."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Realiza pausas entre palabra y palabra, pero no en puntos y comas."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "Cambia palabras por otras o adivina en forma incorrecta en varias ocasiones."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "23.1 palabras por minuto indica que se encuentra en la etapa fonológica."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T23:00:20.704865"
+  },
+  {
+    "id_lectura": 52860,
+    "archivo": "lectura_52860_2025-10-29_14-24-26.wav",
+    "modelo": "openai-audio",
+    "evaluacion": {
+      "palabras_por_minuto": 63.49,
+      "modelo": "openai-audio",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "En proceso",
+          "comentario": "El alumno puede asociar consonantes y vocales, pero aún muestra dificultades al leer sílabas completas."
+        },
+        "manejo_ritmo": {
+          "nivel": "En proceso",
+          "comentario": "Lee de forma monótona pero sin silabear las palabras."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Realiza pausas entre palabra y palabra, pero no en puntos y comas."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "Cambia palabras por otras, como 'oído' por 'odios', y adivina en forma incorrecta."
+        },
+        "fluidez_lectora": {
+          "nivel": "En proceso",
+          "comentario": "63.5 palabras por minuto indica que está en la etapa ortográfica."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T23:00:26.825796"
+  },
+  {
+    "id_lectura": 52861,
+    "archivo": "lectura_52861_2025-10-29_14-21-03.wav",
+    "modelo": "openai-audio",
+    "evaluacion": {
+      "palabras_por_minuto": 22.1,
+      "modelo": "openai-audio",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "En proceso",
+          "comentario": "El alumno puede asociar consonantes y vocales, y empieza a leer sílabas, pero aún no fluye completamente."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "Lee en forma silabeante y sin entonar."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Realiza pausas entre palabra y palabra, pero no en puntos y comas."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "Cambia palabras por otras o adivina en forma incorrecta en algunos casos."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "22.1 palabras por minuto indica que está en la etapa fonológica."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T23:00:35.029466"
+  },
+  {
+    "id_lectura": 52862,
+    "archivo": "lectura_52862_2025-10-29_14-23-25.wav",
+    "modelo": "openai-audio",
+    "evaluacion": {
+      "palabras_por_minuto": 27.78,
+      "modelo": "openai-audio",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "En proceso",
+          "comentario": "Puede asociar consonantes y vocales, y empieza a leer sílabas, pero aún silabea algunas palabras."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "Lee en forma silabeante y sin entonar."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Realiza pausas entre palabra y palabra, pero no en puntos y comas."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "Cambia palabras por otras o adivina en forma incorrecta, como 'ven' en lugar de 'buen'."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "27.8 palabras por minuto indica que está en la etapa fonológica."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T23:00:43.381274"
+  },
+  {
+    "id_lectura": 52863,
+    "archivo": "lectura_52863_2025-10-29_14-24-00.wav",
+    "modelo": "openai-audio",
+    "evaluacion": {
+      "palabras_por_minuto": 49.63,
+      "modelo": "openai-audio",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "En proceso",
+          "comentario": "El alumno puede asociar consonantes y vocales, y empieza a leer sílabas, pero aún se nota un esfuerzo en la decodificación."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "Lee en forma silabeante y sin entonar, lo que indica un ritmo inicial."
+        },
+        "manejo_respiracion": {
+          "nivel": "Inicial",
+          "comentario": "No hace pausas en puntos y comas, lo que afecta la comprensión y el ritmo de la lectura."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Logra leer oraciones cometiendo uno o dos errores aislados, no fonológicos."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "49.6 palabras por minuto indica que se encuentra en la etapa fonológica."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T23:00:50.533750"
   },
   {
     "id_lectura": 52866,
     "archivo": "lectura_52866_2025-10-29_14-34-25.wav",
     "modelo": "openai-audio",
     "evaluacion": {
-      "error": "El texto proporcionado no coincide con el audio.",
-      "match": false,
-      "similaridad": 0.41009463722397477,
-      "transcripcion": "Los perros tienen muy buen olfato y Olmo es un muy buen animal y a pedir su vida y muerde su vida y muerde su vida y muerde su vida y muerde su vida y muerde su vida y muerde su vida y muerde su vida y muerde su vida"
+      "palabras_por_minuto": 15.19,
+      "modelo": "openai-audio",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "En proceso",
+          "comentario": "Puede asociar consonantes y vocales, y empieza a leer sílabas, pero aún no fluye con naturalidad."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "Lee en forma silabeante y sin entonar."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Realiza pausas entre palabra y palabra, pero no en puntos y comas."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "Cambia palabras por otras o adivina en forma incorrecta en varias ocasiones."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "15.2 palabras por minuto indica que está en la etapa fonológica."
+        }
+      }
     },
-    "timestamp": "2026-06-21T16:03:56.090643"
+    "timestamp": "2026-06-21T23:01:01.446488"
   }
 ]

@@ -3,11 +3,33 @@
     "id_lectura": 52854,
     "archivo": "lectura_52854_2025-10-29_13-42-40.wav",
     "modelo": "gemini-pro",
-    "evaluacion": {
-      "error": "El texto proporcionado no coincide con el audio.",
-      "match": false,
-      "similaridad": 0.18181818181818182,
-      "transcripcion": "Presionamos Fuerte Fuerte Múi Án Ín Án Í Tí Lí Án Í Tí Lí Tí Lí Múi Án Án Múi Tí Án Tí"
+    "evaluacion": 
+{
+  "palabras_por_minuto": 13.87,
+  "modelo": "gemini-pro",
+  "evaluacion": {
+    "estrategia_silabica": {
+      "nivel": "Logrado",
+      "comentario": "El estudiante utiliza activamente la estrategia silábica y fonológica para decodificar las palabras, logrando descifrar el texto completo mediante el deletreo y la posterior unión de las sílabas."
+    },
+    "manejo_ritmo": {
+      "nivel": "Inicial",
+      "comentario": "La lectura es marcadamente silabeante y fonológica. Al concentrar todo su esfuerzo en decodificar cada sonido y sílaba, el estudiante lee sin entonación."
+    },
+    "manejo_respiracion": {
+      "nivel": "Inicial",
+      "comentario": "Debido a la lectura extremadamente pausada para decodificar letra por letra y sílaba por sílaba, no logra hacer pausas estructuradas ni respetar los signos de puntuación como los puntos."
+    },
+    "precision": {
+      "nivel": "Avanzado",
+      "comentario": "A pesar de la gran lentitud y el esfuerzo en la lectura, el estudiante es sumamente preciso; logra decodificar y leer todo el texto sin cometer errores de sustitución, omisión o adición de letras."
+    },
+    "fluidez_lectora": {
+      "nivel": "Inicial",
+      "comentario": "Con una velocidad de aproximadamente 13.9 palabras por minuto, el estudiante se encuentra en una etapa fonológica inicial, invirtiendo mucho tiempo en el reconocimiento y unión de cada fonema."
+    }
+  }
+
     },
     "timestamp": "2026-06-21T15:44:14.078921"
   },

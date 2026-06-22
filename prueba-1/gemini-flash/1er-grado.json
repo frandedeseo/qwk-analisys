@@ -1,16 +1,30 @@
 [
-  {
-    "id_lectura": 52854,
-    "archivo": "lectura_52854_2025-10-29_13-42-40.wav",
-    "modelo": "gemini-flash",
-    "evaluacion": {
-      "error": "El texto proporcionado no coincide con el audio.",
-      "match": false,
-      "similaridad": 0.20276497695852536,
-      "transcripcion": "y fuerte la y o el muy muy a y al y de de de de de y la y y el el el mi o am o el o el el el el el el el el el el el"
+{
+  "palabras_por_minuto": 13.87,
+  "modelo": "gemini-flash",
+  "evaluacion": {
+    "estrategia_silabica": {
+      "nivel": "En proceso",
+      "comentario": "El estudiante se encuentra en la etapa de asociar sonidos individuales (consonantes y vocales) para intentar estructurar sílabas y palabras, aunque lo hace de manera fragmentada y con un alto esfuerzo de decodificación fonológica."
     },
-    "timestamp": "2026-06-21T15:33:03.922895"
-  },
+    "manejo_ritmo": {
+      "nivel": "Inicial",
+      "comentario": "La lectura es marcadamente silabeante, deletreada y carente de entonación o prosodia, debido a que toda la atención está enfocada en la decodificación de cada letra."
+    },
+    "manejo_respiracion": {
+      "nivel": "En proceso",
+      "comentario": "Se observan pausas constantes y prolongadas entre palabra y palabra, e incluso entre fonemas individuales, más ligadas a la necesidad de decodificación que a la estructura del texto."
+    },
+    "precision": {
+      "nivel": "Avanzado",
+      "comentario": "A pesar de la extrema lentitud y el esfuerzo en el deletreo, el estudiante logra reproducir correctamente los sonidos de las letras sin incurrir en omisiones, sustituciones o distorsiones de las palabras presentadas."
+    },
+    "fluidez_lectora": {
+      "nivel": "Inicial",
+      "comentario": "Con un registro de 13.9 palabras por minuto (WPM), el estudiante se ubica claramente en el nivel inicial (etapa fonológica), requiriendo de mayor automatización de la lectura para incrementar su velocidad."
+    }
+  }
+},
   {
     "id_lectura": 52855,
     "archivo": "lectura_52855_2025-10-29_13-44-16.wav",

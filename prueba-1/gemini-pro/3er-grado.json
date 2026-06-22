@@ -74,11 +74,31 @@
     "archivo": "lectura_52873_2025-10-29_14-49-27.wav",
     "modelo": "gemini-pro",
     "evaluacion": {
-      "error": "El texto proporcionado no coincide con el audio.",
-      "match": false,
-      "similaridad": 0.1651705565529623,
-      "transcripcion": "Los dinosaurios son animales que vivían en las tierras hace muchos años. Eran animales salvajes, muy feroces y peligrosos. El Tyrannosaurio rex era uno de los dinosaurios más conocidos. Era un animal de gran tamaño, tenía dientes muy filosos y grandes garras para atrapar a sus presas."
+  "palabras_por_minuto": 112.71,
+  "modelo": "gemini-pro",
+  "evaluacion": {
+    "estrategia_silabica": {
+      "nivel": "Avanzado",
+      "comentario": "La estudiante no necesita utilizar la estrategia silábica, leyendo de manera directa y automatizada."
     },
+    "manejo_ritmo": {
+      "nivel": "Avanzado",
+      "comentario": "Lee el texto de manera natural y con un adecuado cambio de entonación a lo largo de las oraciones."
+    },
+    "manejo_respiracion": {
+      "nivel": "Logrado",
+      "comentario": "Realiza las pausas adecuadas en los puntos marcados en el texto, logrando un buen manejo del aire."
+    },
+    "precision": {
+      "nivel": "Logrado",
+      "comentario": "Lee el texto con gran exactitud, cometiendo únicamente un error aislado y no fonológico al decir 'las tierras' en lugar de 'la tierra'."
+    },
+    "fluidez_lectora": {
+      "nivel": "Avanzado",
+      "comentario": "Alcanza una velocidad de 112.7 palabras por minuto, ubicándose cómodamente en la etapa expresiva consolidada."
+    }
+  }
+},
     "timestamp": "2026-06-21T15:53:31.646565"
   },
   {
