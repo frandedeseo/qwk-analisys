@@ -9,27 +9,27 @@
       "evaluacion": {
         "estrategia_silabica": {
           "nivel": "Logrado",
-          "comentario": "El alumno utiliza la estrategia silábica para la lectura, como se observa en la segmentación de palabras complejas."
+          "comentario": "El alumno recurrió al silabeo en palabras largas como 'comportamiento' y 'intercepta', lo que indica uso de la estrategia silábica como apoyo."
         },
         "manejo_ritmo": {
           "nivel": "En proceso",
-          "comentario": "Lee en forma monótona pero sin silabear las palabras."
+          "comentario": "La lectura fue mayormente monótona, sin variaciones de entonación significativas a lo largo del texto."
         },
         "manejo_respiracion": {
           "nivel": "Logrado",
-          "comentario": "Hace pausas en puntos y comas, aunque no siempre de manera consistente."
+          "comentario": "El alumno hizo pausas en los puntos y comas, aunque también hubo pausas adicionales entre palabras por esfuerzo de decodificación."
         },
         "precision": {
-          "nivel": "En proceso",
-          "comentario": "Cambia palabras por otras o adivina en forma incorrecta, como 'pulumas' en lugar de 'plumas'."
+          "nivel": "Logrado",
+          "comentario": "El alumno cometió un error aislado al leer 'plumas' como 'pulumas', pero el resto de la lectura fue precisa."
         },
         "fluidez_lectora": {
           "nivel": "Logrado",
-          "comentario": "77.7 palabras por minuto indica una etapa de transición hacia expresiva."
+          "comentario": "Con 77.7 palabras por minuto, el alumno se encuentra en la etapa de transición hacia expresiva."
         }
       }
     },
-    "timestamp": "2026-06-21T23:03:24.893182"
+    "timestamp": "2026-06-22T22:45:04.824380"
   },
   {
     "id_lectura": 52605,
@@ -40,28 +40,28 @@
       "modelo": "openai-audio",
       "evaluacion": {
         "estrategia_silabica": {
-          "nivel": "Avanzado",
-          "comentario": "El alumno no necesita utilizar la estrategia silábica, ya que lee palabras completas sin silabear."
+          "nivel": "Logrado",
+          "comentario": "El alumno leyó de forma global la mayoría de las palabras, pero recurrió al silabeo en algunas palabras como 'escasez' y 'intercepta'."
         },
         "manejo_ritmo": {
           "nivel": "En proceso",
-          "comentario": "Lee en forma monótona pero sin silabear las palabras."
+          "comentario": "La lectura fue mayormente monótona, sin variación de entonación a lo largo del texto."
         },
         "manejo_respiracion": {
           "nivel": "Logrado",
-          "comentario": "Hace pausas en puntos y comas, aunque no antes de palabras cortas en oraciones largas."
+          "comentario": "El alumno hizo pausas en los puntos y comas, aunque también hubo pausas adicionales entre algunas palabras."
         },
         "precision": {
           "nivel": "En proceso",
-          "comentario": "Cambia palabras por otras, como 'búho' por 'hugo' y 'escasez' por 'escasez'."
+          "comentario": "El alumno cambió palabras completas, por ejemplo, 'búho' por 'uo' y 'búhos' por 'ugos'."
         },
         "fluidez_lectora": {
           "nivel": "Avanzado",
-          "comentario": "101.2 palabras por minuto indica una etapa expresiva consolidada."
+          "comentario": "El alumno leyó a una velocidad de 101.2 palabras por minuto, lo que corresponde a la etapa expresiva consolidada."
         }
       }
     },
-    "timestamp": "2026-06-21T23:03:31.927326"
+    "timestamp": "2026-06-22T22:45:12.192930"
   },
   {
     "id_lectura": 52628,
@@ -73,27 +73,27 @@
       "evaluacion": {
         "estrategia_silabica": {
           "nivel": "Logrado",
-          "comentario": "El alumno utiliza la estrategia silábica para la lectura, aunque no de manera constante."
+          "comentario": "El alumno leyó de forma global la mayoría de las palabras, pero recurrió al silabeo en palabras largas como 'comportamiento' y 'escasez'."
         },
         "manejo_ritmo": {
-          "nivel": "En proceso",
-          "comentario": "Lee de forma monótona pero sin silabear las palabras."
+          "nivel": "Logrado",
+          "comentario": "El alumno entonó para abajo en los puntos y comas de forma clara y consistente, pero no mostró variación expresiva a lo largo de todo el texto."
         },
         "manejo_respiracion": {
           "nivel": "Logrado",
-          "comentario": "Hace pausas en puntos y comas, aunque algunas pausas son un poco largas."
+          "comentario": "El alumno hizo pausas en puntos y comas, aunque también realizó pausas adicionales entre algunas palabras."
         },
         "precision": {
-          "nivel": "Logrado",
-          "comentario": "Logra leer oraciones cometiendo uno o dos errores aislados, no fonológicos."
+          "nivel": "Avanzado",
+          "comentario": "El alumno leyó el texto sin errores, manteniendo la precisión en las palabras."
         },
         "fluidez_lectora": {
           "nivel": "Logrado",
-          "comentario": "82.1 palabras por minuto indica una etapa de transición hacia expresiva."
+          "comentario": "El alumno leyó a una velocidad de 82.1 palabras por minuto, lo que corresponde a la etapa de transición hacia expresiva."
         }
       }
     },
-    "timestamp": "2026-06-21T23:03:38.843070"
+    "timestamp": "2026-06-22T22:45:20.126118"
   },
   {
     "id_lectura": 52701,
@@ -104,28 +104,28 @@
       "modelo": "openai-audio",
       "evaluacion": {
         "estrategia_silabica": {
-          "nivel": "Avanzado",
-          "comentario": "No necesita utilizar la estrategia silábica, ya que lee de manera fluida sin descomponer las palabras en sílabas."
+          "nivel": "Logrado",
+          "comentario": "El alumno leyó de forma global la mayoría de las palabras, pero recurrió al silabeo en 'a la ver escasez' mostrando un leve titubeo."
         },
         "manejo_ritmo": {
-          "nivel": "Avanzado",
-          "comentario": "Lee el texto con un adecuado cambio de entonación, reflejando comprensión de la estructura del texto."
+          "nivel": "Logrado",
+          "comentario": "El alumno entonó para abajo en los puntos y comas de forma clara y consistente, pero no mostró variación expresiva a lo largo de todo el texto."
         },
         "manejo_respiracion": {
           "nivel": "Logrado",
-          "comentario": "Hace pausas en puntos y comas, lo que indica un buen manejo de la respiración."
+          "comentario": "El alumno hizo pausas en puntos y comas, pero no se evidenciaron micropausas adicionales en oraciones largas."
         },
         "precision": {
-          "nivel": "Logrado",
-          "comentario": "Logra leer oraciones cometiendo uno o dos errores aislados, no fonológicos."
+          "nivel": "Avanzado",
+          "comentario": "El alumno leyó el texto sin errores ni autocorrecciones."
         },
         "fluidez_lectora": {
           "nivel": "Avanzado",
-          "comentario": "125 palabras por minuto indican una etapa expresiva consolidada."
+          "comentario": "El alumno leyó a 125 palabras por minuto, lo que corresponde a la etapa expresiva consolidada."
         }
       }
     },
-    "timestamp": "2026-06-21T23:03:45.834599"
+    "timestamp": "2026-06-22T22:45:26.639021"
   },
   {
     "id_lectura": 52702,
@@ -136,28 +136,28 @@
       "modelo": "openai-audio",
       "evaluacion": {
         "estrategia_silabica": {
-          "nivel": "Avanzado",
-          "comentario": "No necesita utilizar la estrategia silábica, ya que lee de manera fluida sin descomponer las palabras en sílabas."
+          "nivel": "Logrado",
+          "comentario": "El alumno lee de forma global la mayoría de las palabras, pero recurrió al silabeo en 'El búho'."
         },
         "manejo_ritmo": {
-          "nivel": "En proceso",
-          "comentario": "Lee en forma monótona pero sin silabear las palabras."
+          "nivel": "Logrado",
+          "comentario": "El alumno entona para abajo en los puntos y comas de forma clara y consistente, pero no varía el tono de manera expresiva a lo largo de todo el texto."
         },
         "manejo_respiracion": {
           "nivel": "Logrado",
-          "comentario": "Hace pausas en puntos y comas, respetando la estructura del texto."
+          "comentario": "El alumno hace pausas en puntos y comas, pero no se evidencian micropausas adicionales en oraciones largas."
         },
         "precision": {
-          "nivel": "Logrado",
-          "comentario": "Logra leer oraciones cometiendo uno o dos errores aislados, no fonológicos."
+          "nivel": "Avanzado",
+          "comentario": "El alumno lee sin errores ni autocorrecciones."
         },
         "fluidez_lectora": {
           "nivel": "Avanzado",
-          "comentario": "118 palabras por minuto indica una etapa expresiva consolidada."
+          "comentario": "El alumno leyó a 118 palabras por minuto, lo que corresponde a la etapa expresiva consolidada."
         }
       }
     },
-    "timestamp": "2026-06-21T23:03:52.597250"
+    "timestamp": "2026-06-22T22:45:33.090582"
   },
   {
     "id_lectura": 52712,
@@ -168,28 +168,28 @@
       "modelo": "openai-audio",
       "evaluacion": {
         "estrategia_silabica": {
-          "nivel": "En proceso",
-          "comentario": "El alumno puede asociar consonantes y vocales, pero aún muestra dificultades al leer sílabas completas."
+          "nivel": "Logrado",
+          "comentario": "El alumno mostró fragmentación en palabras como 'escasez' y 'intercepta', lo que indica uso de la estrategia silábica como apoyo."
         },
         "manejo_ritmo": {
           "nivel": "En proceso",
-          "comentario": "Lee de forma monótona pero sin silabear las palabras."
+          "comentario": "La lectura fue mayormente monótona, sin variación de entonación a lo largo del texto."
         },
         "manejo_respiracion": {
-          "nivel": "Logrado",
-          "comentario": "Hace pausas en puntos y comas."
+          "nivel": "En proceso",
+          "comentario": "El alumno realizó pausas entre palabras, pero no se guió consistentemente por los signos de puntuación."
         },
         "precision": {
           "nivel": "En proceso",
-          "comentario": "Cambia palabras por otras o adivina en forma incorrecta, como 'escabece' en lugar de 'escasez'."
+          "comentario": "El alumno cambió palabras completas, como 'intercepta' por 'interpretes', lo que indica errores a nivel de palabra."
         },
         "fluidez_lectora": {
           "nivel": "Avanzado",
-          "comentario": "94.3 palabras por minuto indica una etapa expresiva consolidada."
+          "comentario": "Con 94.3 palabras por minuto, el alumno se encuentra en la etapa expresiva consolidada."
         }
       }
     },
-    "timestamp": "2026-06-21T23:03:59.588360"
+    "timestamp": "2026-06-22T22:45:40.771644"
   },
   {
     "id_lectura": 52714,
@@ -200,28 +200,28 @@
       "modelo": "openai-audio",
       "evaluacion": {
         "estrategia_silabica": {
-          "nivel": "En proceso",
-          "comentario": "El alumno puede asociar consonantes y vocales, pero aún lee algunas palabras en forma silabeante."
+          "nivel": "Logrado",
+          "comentario": "El alumno recurrió al silabeo en palabras largas como 'comportamiento' y 'escasez', lo que indica uso de la estrategia silábica como apoyo."
         },
         "manejo_ritmo": {
           "nivel": "En proceso",
-          "comentario": "Lee en forma monótona pero sin silabear las palabras."
+          "comentario": "La lectura fue mayormente monótona, sin variación de entonación a lo largo del texto."
         },
         "manejo_respiracion": {
           "nivel": "Logrado",
-          "comentario": "Hace pausas en puntos y comas."
+          "comentario": "El alumno hizo pausas en los puntos y comas, aunque también hubo pausas adicionales entre palabras."
         },
         "precision": {
-          "nivel": "Logrado",
-          "comentario": "Logra leer oraciones cometiendo uno o dos errores aislados, no fonológicos."
+          "nivel": "Avanzado",
+          "comentario": "El alumno leyó sin errores ni sustituciones de palabras."
         },
         "fluidez_lectora": {
           "nivel": "Logrado",
-          "comentario": "83.3 palabras por minuto indica una etapa de transición hacia expresiva."
+          "comentario": "Con 83.3 palabras por minuto, el alumno se encuentra en la etapa de transición hacia expresiva."
         }
       }
     },
-    "timestamp": "2026-06-21T23:04:06.908185"
+    "timestamp": "2026-06-22T22:45:47.894351"
   },
   {
     "id_lectura": 52942,
@@ -232,27 +232,27 @@
       "modelo": "openai-audio",
       "evaluacion": {
         "estrategia_silabica": {
-          "nivel": "En proceso",
-          "comentario": "El alumno puede asociar consonantes y vocales, pero aún lee algunas palabras de forma silabeante."
+          "nivel": "Logrado",
+          "comentario": "El alumno recurrió al silabeo en varias palabras complejas, como 'comportamiento' y 'intercepta', lo que indica que utiliza la estrategia silábica como apoyo."
         },
         "manejo_ritmo": {
           "nivel": "Inicial",
-          "comentario": "Lee en forma silabeante y sin entonar."
+          "comentario": "El alumno lee de forma silabeante y sin entonar, lo que corresponde al nivel inicial en el manejo del ritmo."
         },
         "manejo_respiracion": {
           "nivel": "En proceso",
-          "comentario": "Realiza pausas entre palabra y palabra, pero no en puntos y comas."
+          "comentario": "El alumno realiza pausas entre palabras sin guiarse por los signos de puntuación, lo que indica un nivel en proceso en el manejo de la respiración."
         },
         "precision": {
           "nivel": "En proceso",
-          "comentario": "Cambia palabras por otras o adivina en forma incorrecta en varias ocasiones."
+          "comentario": "El alumno cambió palabras completas por otras, como 'escuchado' en lugar de 'escasez', lo que corresponde a un nivel en proceso en precisión."
         },
         "fluidez_lectora": {
           "nivel": "Inicial",
-          "comentario": "38.3 palabras por minuto indica que se encuentra en la etapa fonológica."
+          "comentario": "Con 38.3 palabras por minuto, el alumno se encuentra en la etapa fonológica, correspondiente al nivel inicial de fluidez lectora."
         }
       }
     },
-    "timestamp": "2026-06-21T23:04:16.961222"
+    "timestamp": "2026-06-22T22:45:58.174382"
   }
 ]

@@ -1,0 +1,282 @@
+[
+  {
+    "id_lectura": 52603,
+    "archivo": "lectura_52603_2025-10-24_13-31-33.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 0.9056047197640118,
+      "transcripcion": "El bú es un ave de comportamiento nocturno. Por lo tanto, al haber escases de luz, intercepta a sus presos a través del sonido. Es famoso y conocido por permanecer despierto durante la noche y descansar de día. A diferencia de las lechuzas, los búhos poseen plumas sobre su cabeza que son confundidas con orejas. La lechuza no posee estas plumas.",
+      "palabras_por_minuto": 77.71,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El estudiante utiliza principalmente una lectura global, aunque recurre de forma auxiliar a la estrategia silábica para decodificar palabras largas o complejas como 'comportamiento', 'escasez' e 'intercepta'."
+        },
+        "manejo_ritmo": {
+          "nivel": "En proceso",
+          "comentario": "La lectura se presenta de manera monótona, pero el alumno logra evitar el silabeo constante, manteniendo la unión de la mayoría de las palabras."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Se realizan pausas entre palabras debido a vacilaciones y procesos de decodificación, lo que dificulta el respeto fluido de los puntos y comas."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Comete errores aislados no fonológicos y algunas sustituciones de letras ('pulumas' y 'plunas' por 'plumas'). También realiza autocorreciones exitosas y una repetición de frase ('sobre su sobre su cabeza')."
+        },
+        "fluidez_lectora": {
+          "nivel": "Logrado",
+          "comentario": "Registra 77.7 palabras por minuto (WPM), situándose en el rango de 71-90 WPM, lo que corresponde a la Etapa de Transición hacia la Expresiva."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:41:07.187678"
+  },
+  {
+    "id_lectura": 52605,
+    "archivo": "lectura_52605_2025-10-24_13-29-49.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 0.7583212735166426,
+      "transcripcion": "El húgo es un ave de comportamiento nocturno, por lo tanto, al haber escasez de la luz, intercepta a sus presas a través del sonido. Es famoso y conocido por permanecer despierto durante la noche y descansar de día. A diferencia de las delchullas, los húgos poseen plumas sobre sus cabezas que son confundidas con sus orejas. La delchusa no posee esas plumas.",
+      "palabras_por_minuto": 101.21,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "El estudiante demuestra una lectura global y automatizada. No requiere de la estrategia silábica para decodificar, logrando leer de forma directa palabras complejas y polisílabas como 'comportamiento' o 'intercepta'."
+        },
+        "manejo_ritmo": {
+          "nivel": "Logrado",
+          "comentario": "Mantiene un ritmo constante y entona de forma descendente al final de las oraciones marcadas por los puntos. Se observa una adecuada modulación, aunque presenta leves vacilaciones que restan fluidez a la melodía general."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "Realiza adecuadamente las pausas indicadas por los signos de puntuación (puntos y comas), logrando una correcta administración del aire sin cortar las palabras a mitad de la frase."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Muestra una lectura precisa con mínimos errores no fonológicos: añade algunos nexos/determinantes ('de la luz', 'sus orejas') y realiza una pequeña vacilación con autocorrección en la palabra 'intercepta'."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "Con un registro de 101.2 palabras por minuto (WPM), el estudiante se ubica firmemente en la Etapa Expresiva Consolidada, velocidad que le permite liberar carga cognitiva para enfocarse en la comprensión del texto."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:41:55.295204"
+  },
+  {
+    "id_lectura": 52628,
+    "archivo": "lectura_52628_2025-10-24_14-31-55.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 1.0,
+      "transcripcion": "El búho es un ave de comportamiento nocturno, por lo tanto al haber escasez de luz intercepta a sus presas a través del sonido, es famoso y conocido por permanecer despierto durante la noche y descansar de día. A diferencia de las lechuzas, los búhos poseen plumas sobre su cabeza que son confundidas con orejas, la lechuza no posee estas plumas.",
+      "palabras_por_minuto": 82.1,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "El estudiante ha superado la etapa de decodificación silábica, mostrando un reconocimiento léxico directo y fluido de las palabras completas."
+        },
+        "manejo_ritmo": {
+          "nivel": "Logrado",
+          "comentario": "Mantiene un ritmo constante y adecuado, aplicando la entonación descendente de manera correcta al encontrarse con puntos y comas."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "Utiliza los signos de puntuación de forma eficaz para realizar las pausas respiratorias, evitando cortes de voz inadecuados a mitad de las frases."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "La lectura es altamente precisa, logrando decodificar correctamente palabras de alta complejidad sintáctica con apenas una vacilación o error menor no fonológico."
+        },
+        "fluidez_lectora": {
+          "nivel": "Logrado",
+          "comentario": "Con un registro de 82.1 palabras por minuto, el estudiante se ubica de forma sólida en el nivel Logrado, correspondiente a la Etapa de Transición hacia la Expresiva."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:42:14.879382"
+  },
+  {
+    "id_lectura": 52701,
+    "archivo": "lectura_52701_2025-10-27_14-28-26.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 1.0,
+      "transcripcion": "El búho es un ave de comportamiento nocturno, por lo tanto, al haber escasez de luz, intercepta a sus presas a través del sonido. Es famoso y conocido por permanecer despierto durante la noche y descansar de día. A diferencia de las lechuzas, los búhos poseen plumas sobre su cabeza que son confundidas con orejas. La lechuza no posee estas plumas.",
+      "palabras_por_minuto": 125.0,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "El estudiante no requiere de la estrategia silábica para decodificar, demostrando un acceso directo al léxico de manera automatizada."
+        },
+        "manejo_ritmo": {
+          "nivel": "Logrado",
+          "comentario": "Mantiene un ritmo constante y una entonación adecuada que decae correctamente en los puntos, a pesar de una pequeña vacilación en la lectura."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "Realiza pausas correctas y consistentes en los puntos y comas, mostrando una adecuada capacidad de dosificación del aire durante la lectura."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Muestra una excelente precisión con solo un par de errores no fonológicos de sustitución ('una' por 'un', y 'posea' por 'posee') y una autocorrección ('al e... al haber')."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "Un registro de 125.0 palabras por minuto posiciona al estudiante en la Etapa Expresiva Consolidada, demostrando una velocidad lectora sumamente eficiente."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:42:35.678602"
+  },
+  {
+    "id_lectura": 52702,
+    "archivo": "lectura_52702_2025-10-27_14-27-02.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 0.9077598828696926,
+      "transcripcion": "El búho es un ave de comportamiento nocturno, por lo tanto, al haber escasez de luz, intercepta a sus presas a través del sonido. Es famoso y conocido por permanecer despierto durante la noche y descansar de día. A diferencia de las lechuzas, los búhos poseen plumas sobre su cabeza que son confundidas con orejas. Las lechuzas no poseen estas plumas.",
+      "palabras_por_minuto": 117.99,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "La alumna no requiere de la estrategia silábica; realiza una decodificación automatizada, directa y global de las palabras."
+        },
+        "manejo_ritmo": {
+          "nivel": "Avanzado",
+          "comentario": "Lee de manera expresiva y con una entonación sumamente natural, adaptando el tono según el sentido del texto."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "Realiza las pausas de forma correcta y oportuna respetando los puntos y las comas a lo largo de la lectura."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Logra leer el texto casi a la perfección, cometiendo un único error aislado de sustitución en la primera palabra ('bue' por 'búho')."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "Alcanza una velocidad de 118.0 palabras por minuto, lo que la sitúa de forma destacada dentro de la Etapa Expresiva Consolidada."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:42:54.418372"
+  },
+  {
+    "id_lectura": 52712,
+    "archivo": "lectura_52712_2025-10-27_14-57-44.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 0.9090909090909091,
+      "transcripcion": "El búho es un ave de comportamiento nocturno, por lo tanto, al haber escabece de luz, interprete a unas presas a través del sonido. Es famoso y conocido por permanecer despierto durante la noche y descansa del día a diferencia de las lechuzas. Los búhos poseen plumas sobre su cabeza, que son confundidas con orejas. La lechuza no posee estas plumas.",
+      "palabras_por_minuto": 94.28,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "El estudiante demuestra una lectura global y directa de las palabras, sin necesidad de recurrir a la decodificación silábica, excepto en un intento de silabeo al enfrentarse a la palabra compleja 'escasez'."
+        },
+        "manejo_ritmo": {
+          "nivel": "Logrado",
+          "comentario": "Mantiene un ritmo constante y realiza variaciones de entonación adecuadas al finalizar las oraciones, marcando correctamente los puntos, aunque se ve ligeramente interrumpido por las autocorrecciones."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "El alumno realiza las pausas respiratorias de manera adecuada coincidiendo con los signos de puntuación (puntos y comas), lo que favorece la estructura del discurso."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "Se observan múltiples errores de precisión: sustitución de palabras complejas ('escabese' por 'escasez', 'interpetes' por 'intercepta'), cambios morfológicos ('descansa' por 'descantar') y vacilaciones/adivinaciones en la frase 'a sus presas'."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "Con un registro de 94.3 palabras por minuto (WPM), el estudiante se ubica en la Etapa Expresiva Consolidada, mostrando un ritmo veloz adecuado para su nivel de desarrollo lector."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:43:17.043542"
+  },
+  {
+    "id_lectura": 52714,
+    "archivo": "lectura_52714_2025-10-27_15-00-06.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 1.0,
+      "transcripcion": "El búho es un ave de comportamiento nocturno, por lo tanto, al haber escasez de luz, intercepta a sus presas a través del sonido, es famoso y conocido por permanecer despierto durante la noche y descansar de día. A diferencia de las lechuzas, los búhos poseen plumas sobre su cabeza que son confundidas con orejas. La lechuza no posee estas plumas.",
+      "palabras_por_minuto": 83.33,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El estudiante utiliza de forma eficaz la estrategia silábica para decodificar con éxito palabras complejas o de alta estructura silábica como 'comportamiento', 'escasez' e 'intercepta'."
+        },
+        "manejo_ritmo": {
+          "nivel": "En proceso",
+          "comentario": "La lectura es principalmente monótona y el ritmo se ralentiza notablemente ante palabras largas, aunque no llega a ser una lectura enteramente silabeante."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Se aprecian pausas e interrupciones entre palabras (por ejemplo, 'descansar... de día') y vacilaciones que alteran el flujo respiratorio, en lugar de regular las pausas según la puntuación."
+        },
+        "precision": {
+          "nivel": "Avanzado",
+          "comentario": "Excelente precisión lectora. No se cometen errores de sustitución, omisión ni adición de grafías, logrando leer la totalidad del texto de manera correcta."
+        },
+        "fluidez_lectora": {
+          "nivel": "Logrado",
+          "comentario": "Con un registro de 83.3 palabras por minuto (WPM), el estudiante se posiciona en el rango de Logrado, consolidando su transición hacia una lectura expresiva."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:43:42.668372"
+  },
+  {
+    "id_lectura": 52942,
+    "archivo": "lectura_52942_2025-11-03_12-42-44.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 0.8270893371757925,
+      "transcripcion": "El búho es un ave de comportamiento nocturno. Por lo tanto, al haber escuchado escucharse de luz, intercepta a sus presas a través del sonido. Es famoso y conocido por permanecer dormido durante la noche y descansar de día. A diferencia de las luchuas, los búhos poseen plumas sobre sus cabezas, que son confundidas con orejas. Las luchuas no poseen estas plumas.",
+      "palabras_por_minuto": 38.29,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El estudiante utiliza de forma sistemática y activa la decodificación silábica para abordar palabras complejas (ej. 'com-por-tamiento', 'per-ma-ne-cer'), logrando integrar los sonidos de manera adecuada aunque con lentitud."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "La lectura es marcadamente silabeante y carece de prosodia. El esfuerzo por decodificar impide que el alumno otorgue una entonación fluida o expresiva al texto."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Realiza pausas frecuentes entre palabra y palabra, e incluso a mitad de las palabras debido a la fragmentación silábica, sin lograr estructurar la respiración según los signos de puntuación."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "Muestra tendencia a la adivinación y sustitución de palabras por similitud gráfica (ej. 'escucharse' por 'escasez', 'lucha' por 'lechuza'), aunque realiza procesos de autocorrección sobre la marcha."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "Registra 38.3 palabras por minuto (WPM), lo que sitúa al estudiante en la Etapa Fonológica. El proceso decodificador aún no está automatizado y requiere alta carga cognitiva."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:44:04.039414"
+  }
+]

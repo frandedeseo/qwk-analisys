@@ -1,0 +1,274 @@
+[
+  {
+    "id_lectura": 52813,
+    "archivo": "lectura_52813_2025-10-29_12-10-26.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 0.9424460431654677,
+      "transcripcion": "Los dinosaurios son animales que vivieron en la Tierra hace muchos años. Eran animales salvajes, muy feroces y peligrosos. El dinosaurio Reds era uno de los dinosaurios más conocidos. Era un animal de gran tamaño. Tenían dientes muy filosos y grandes garras para atrapar a sus presas.",
+      "palabras_por_minuto": 97.31,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "El estudiante ha superado la etapa de decodificación silábica, accediendo a la lectura de manera directa y automatizada."
+        },
+        "manejo_ritmo": {
+          "nivel": "Logrado",
+          "comentario": "Mantiene un ritmo constante y adecuado, respetando la entonación descendente al final de las oraciones demarcadas por los puntos."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "Realiza las pausas de manera correcta en los puntos y comas, logrando dosificar el aire adecuadamente sin cortar las frases."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Muestra una lectura precisa, cometiendo solo un par de vacilaciones con autorreparación ('sa-salvajes', 'u-uno') y una sustitución menor ('tenían' por 'tenía') que no altera el significado."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "Con 97.3 palabras por minuto, el estudiante se posiciona en la Etapa Expresiva Consolidada, demostrando una excelente velocidad y automatización."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:38:54.524584"
+  },
+  {
+    "id_lectura": 52872,
+    "archivo": "lectura_52872_2025-10-29_14-48-11.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 0.9620253164556962,
+      "transcripcion": "Los dinosaurios son animales que vivieron en la tierra hace muchos años. Eran animales salvajes, muy feroces y peligrosos. El Tiranosaurio Rex era uno de los dinosaurios más conocidos. Era un animal de gran tamaño. Tenía dientes muy filosos y grandes garras para atrapar sus pesos.",
+      "palabras_por_minuto": 79.53,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "La estudiante ya no requiere de la estrategia silábica para decodificar; realiza una lectura visual directa y fluida de las palabras completas."
+        },
+        "manejo_ritmo": {
+          "nivel": "En proceso",
+          "comentario": "Aunque no silabea y mantiene la continuidad de la lectura, esta se presenta de forma mayormente monótona, requiriendo mayor expresividad y matices en la entonación."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "Realiza adecuadamente las pausas indicadas por los puntos, separando correctamente las oraciones y administrando su capacidad respiratoria sin dificultad."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Muestra una lectura precisa con mínimos errores aislados: una vacilación/autocorrección en la palabra 'feroces' y la omisión de la preposición 'a' en la frase final ('atrapar [a] sus presas')."
+        },
+        "fluidez_lectora": {
+          "nivel": "Logrado",
+          "comentario": "Con 79.5 palabras por minuto (PPM), la alumna se sitúa en la Etapa de Transición hacia la Expresiva, demostrando un ritmo de procesamiento adecuado y un acceso léxico ágil."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:39:14.267809"
+  },
+  {
+  "id_lectura": 52873,
+  "palabras_por_minuto": 112.71,
+  "modelo": "gemini-flash",
+  "evaluacion": {
+    "estrategia_silabica": {
+      "nivel": "Avanzado",
+      "comentario": "El estudiante lee de forma fluida y directa, sin necesidad de recurrir a la decodificación silábica, lo que demuestra que tiene la lectura de palabras completamente automatizada."
+    },
+    "manejo_ritmo": {
+      "nivel": "Avanzado",
+      "comentario": "Muestra un adecuado cambio de entonación respetando la estructura de las oraciones, evitando la monotonía y el silabeo."
+    },
+    "manejo_respiracion": {
+      "nivel": "Logrado",
+      "comentario": "Realiza las pausas de manera correcta en los puntos y comas, estructurando el aire de forma adecuada a lo largo del texto."
+    },
+    "precision": {
+      "nivel": "Logrado",
+      "comentario": "Logra leer la totalidad del texto cometiendo un único error menor no fonológico al agregar una 's' en la palabra 'tierras' ('en la tierras')."
+    },
+    "fluidez_lectora": {
+      "nivel": "Avanzado",
+      "comentario": "Registra 112.7 palabras por minuto, lo que lo sitúa firmemente en la Etapa Expresiva Consolidada para su nivel lector."
+    }
+  }
+},
+  {
+    "id_lectura": 52874,
+    "archivo": "lectura_52874_2025-10-29_14-48-50.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 0.8817204301075269,
+      "transcripcion": "Los dinosaurios son animales que vivieron en la tierra hace muchos años. Eran animales salvajes, muy feroces y peligrosos. También el Tiranosaurio Rex era uno de los dinosaurios más conocidos. Era un animal de gran tamaño. Tenía dientes muy filosos y grandes caras para tapar sus pesas.",
+      "palabras_por_minuto": 87.04,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "La alumna no utiliza la estrategia silábica; decodifica de forma directa y global las palabras del texto."
+        },
+        "manejo_ritmo": {
+          "nivel": "En proceso",
+          "comentario": "Lee con un tono algo monótono y con leves pausas entre palabras individuales, pero sin caer en el silabeo."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "Realiza adecuadamente las pausas indicadas por los puntos y comas a lo largo de la lectura."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Lee con gran precisión, cometiendo un error menor de adición ('también') y una breve vacilación antes de 'Tiranosaurio', los cuales logra autocorregir."
+        },
+        "fluidez_lectora": {
+          "nivel": "Logrado",
+          "comentario": "Con 87 palabras por minuto (WPM), la alumna se posiciona en el nivel Logrado, correspondiente a la Etapa de Transición hacia la Expresiva."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:39:36.720154"
+  },
+  {
+    "id_lectura": 52877,
+    "archivo": "lectura_52877_2025-10-29_15-00-00.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 0.8718861209964412,
+      "transcripcion": "Los dinosaurios son animales que vivieron en la Tierra hace muchos años. Eran animales salvajes, muy feroces y peligrosos. El Tiranosauri Rex era uno de los dinosaurios más conocidos. Era un animal de gran tamaño. Tenía dientes muy filosos y grandes rodas para atrapar a todas las especies.",
+      "palabras_por_minuto": 121.76,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "El estudiante ha automatizado completamente la decodificación, prescindiendo de la estrategia silábica y logrando un reconocimiento visual directo y fluido de las palabras."
+        },
+        "manejo_ritmo": {
+          "nivel": "Avanzado",
+          "comentario": "Muestra una entonación natural y expresiva, respetando la estructura sintáctica del texto y variando el tono de manera adecuada al leer."
+        },
+        "manejo_respiracion": {
+          "nivel": "Avanzado",
+          "comentario": "Utiliza de forma óptima las pausas asociadas a la puntuación y realiza micro-pausas estratégicas en oraciones más extensas, manteniendo un soplo fonatorio controlado."
+        },
+        "precision": {
+          "nivel": "Avanzado",
+          "comentario": "Lee el texto de manera exacta y sin errores de decodificación, incluso ante palabras complejas o de baja frecuencia como 'Tiranosaurio Rex'."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "Registra 121.8 palabras por minuto (WPM), ubicándose sólidamente en el nivel Avanzado, que corresponde a la Etapa Expresiva Consolidada para su grupo etario."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:39:52.210484"
+  },
+  {
+    "id_lectura": 52879,
+    "archivo": "lectura_52879_2025-10-29_14-59-27.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 0.9874326750448833,
+      "transcripcion": "Los dinosaurios son animales que vivieron en la tierra hace muchos años. Eran animales salvajes, muy feroces y peligrosos. El Tyrannosaurio Rex era uno de los dinosaurios más conocidos. Era un animal de gran tamaño. Tenía dientes muy filosos y grandes garras para atrapar a sus presas.",
+      "palabras_por_minuto": 123.36,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "El alumno lee de manera fluida y directa, demostrando una ruta visual consolidada sin necesidad de recurrir a la decodificación silábica."
+        },
+        "manejo_ritmo": {
+          "nivel": "Avanzado",
+          "comentario": "Muestra una entonación y modulación adecuadas, adaptando el ritmo de forma natural según el sentido del texto."
+        },
+        "manejo_respiracion": {
+          "nivel": "Avanzado",
+          "comentario": "Realiza las pausas de manera correcta en puntos y comas, gestionando la respiración de forma orgánica incluso en las oraciones más extensas."
+        },
+        "precision": {
+          "nivel": "Avanzado",
+          "comentario": "Lee el texto completo con total exactitud, sin presentar sustituciones, omisiones ni distorsiones de las palabras."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "Registra 123.4 palabras por minuto (WPM), lo que lo ubica sólidamente en la Etapa Expresiva Consolidada."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:40:08.619926"
+  },
+  {
+    "id_lectura": 52880,
+    "archivo": "lectura_52880_2025-10-29_14-58-53.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 0.8237410071942446,
+      "transcripcion": "Los dinosaurios son animales que vivieron en la Tierra hace muchos años, eran animales salvajes, muy feroces y peligrosos. El Tiranosaurio Rex era uno de los dinosaurios más conocidos. Era un animal de gran tamaño, tenía dientes muy felosos y grandes garras para atrapar a sus presas.",
+      "palabras_por_minuto": 122.72,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "El estudiante no requiere de la estrategia silábica; demuestra una decodificación automática y global de las palabras del texto de forma fluida."
+        },
+        "manejo_ritmo": {
+          "nivel": "Avanzado",
+          "comentario": "Lee el texto con una entonación natural y adecuada, variando el tono según la estructura de las oraciones sin caer en la monotonía."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "Realiza de manera adecuada las pausas correspondientes a los puntos del texto, mostrando una correcta dosificación del aire."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Logra leer el texto completo cometiendo solo dos errores aislados de sustitución/omisión al leer 'vieron' en lugar de 'vivieron' y 'felosos' por 'filosos'."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "Con un registro de 122.7 palabras por minuto, el estudiante se ubica firmemente en la Etapa Expresiva Consolidada para su nivel."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:40:26.668444"
+  },
+  {
+    "id_lectura": 52881,
+    "archivo": "lectura_52881_2025-10-29_14-58-16.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 0.9909584086799277,
+      "transcripcion": "Los dinosaurios son animales que viven en la tierra hace muchos años. Eran animales salvajes, muy feroces y peligrosos. El tiranosaurio Rex era uno de los dinosaurios más conocidos. Era un animal de gran tamaño. Tenía dientes muy filosos y grandes garras para atrapar a sus presas.",
+      "palabras_por_minuto": 89.02,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "El estudiante demuestra una lectura global consolidada, reconociendo las palabras de forma directa sin necesidad de recurrir a la decodificación silábica."
+        },
+        "manejo_ritmo": {
+          "nivel": "Logrado",
+          "comentario": "Mantiene un ritmo constante y entona adecuadamente hacia abajo al finalizar las oraciones en los puntos, lo cual facilita la comprensión del texto."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "Realiza pausas correctas y marcadas en los puntos seguidos, demostrando un buen manejo de la respiración sin cortar las frases de manera abrupta."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Lee con un nivel óptimo de precisión, cometiendo solo un error de sustitución ('viven' por 'vivieron') y algunas vacilaciones con autorreparación ('de los...', 'y grandes...')."
+        },
+        "fluidez_lectora": {
+          "nivel": "Logrado",
+          "comentario": "Con un registro de 89.0 palabras por minuto, el alumno se ubica en el rango superior del nivel Logrado, consolidando su transición hacia una lectura expresiva."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:40:45.523472"
+  }
+]

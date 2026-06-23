@@ -4,279 +4,255 @@
     "archivo": "lectura_52491_2025-10-23_12-19-07.wav",
     "modelo": "gemini-pro",
     "evaluacion": {
-      "match": true,
-      "similaridad": 0.9921568627450981,
-      "transcripcion": "En el Sistema Solar hay ocho planetas, Marte es un cuarto planeta más cercano al Sol, es el segundo más pequeño, su color es rojizo, desde la Tierra se lo puede observar con un telescopio. Hace varios años los científicos investigan si hubo vida en ese planeta.",
       "palabras_por_minuto": 65.46,
       "modelo": "gemini-pro",
       "evaluacion": {
         "estrategia_silabica": {
           "nivel": "Logrado",
-          "comentario": "El estudiante utiliza la estrategia silábica de forma efectiva para decodificar palabras más largas o complejas, como se observa al leer 'te-les-co-pio', 'in-ves-ti-gan' y 'e-se'."
+          "comentario": "El estudiante lee de forma global la mayor parte del texto, pero recurre al silabeo como apoyo evidente al enfrentarse a palabras largas o complejas como 'telescopio' e 'investigan', e incluso en la palabra 'ese'."
         },
         "manejo_ritmo": {
           "nivel": "En proceso",
-          "comentario": "La lectura tiene un ritmo predominantemente monótono y en algunas secciones se realiza palabra por palabra, aunque logra evitar el silabeo constante en la mayor parte del texto."
+          "comentario": "La lectura se realiza de forma monótona, leyendo palabra por palabra en varios tramos, sin evidenciar entonación descendente clara y consistente ni variaciones expresivas en el tono."
         },
         "manejo_respiracion": {
           "nivel": "Logrado",
-          "comentario": "El estudiante logra identificar y respetar los signos de puntuación, haciendo las pausas correspondientes de manera clara en los puntos seguidos al finalizar cada oración."
+          "comentario": "El estudiante logra realizar pausas marcadas y consistentes en los puntos seguidos que separan las oraciones, más allá de las pausas extra que requiere por esfuerzo de decodificación."
         },
         "precision": {
-          "nivel": "En proceso",
-          "comentario": "Comete errores de sustitución al cambiar algunas palabras y letras, leyendo 'un' en lugar de 'el' y 'su' en lugar de 'si', llegando a repetir la frase en un intento de autocorrección sin éxito."
+          "nivel": "Inicial",
+          "comentario": "Presenta errores fonológicos al sustituir vocales ('su' por 'si', sin lograr autocorregirse) y también cambia palabras completas leyendo 'un' en lugar de 'el'."
         },
         "fluidez_lectora": {
           "nivel": "En proceso",
-          "comentario": "Alcanza una velocidad de 65.5 palabras por minuto, lo que lo ubica dentro del rango de 50-70 PPM, correspondiente a la etapa ortográfica."
+          "comentario": "Con 65 palabras por minuto, el estudiante se ubica en la etapa ortográfica de lectura."
         }
       }
     },
-    "timestamp": "2026-06-21T15:48:46.007705"
+    "timestamp": "2026-06-22T22:26:18.037918"
   },
   {
     "id_lectura": 52495,
     "archivo": "lectura_52495_2025-10-23_12-22-54.wav",
     "modelo": "gemini-pro",
     "evaluacion": {
-      "match": true,
-      "similaridad": 0.9940828402366864,
-      "transcripcion": "El sistema solar hay ocho planetas. Marte es el cuarto planeta más cercano al Sol. Es el segundo más pequeño. Su color es rojizo. Desde la Tierra se lo puede observar con un telescopio. Hace varios años los científicos investigan si hubo vida en ese planeta.",
       "palabras_por_minuto": 86.23,
       "modelo": "gemini-pro",
       "evaluacion": {
         "estrategia_silabica": {
-          "nivel": "Avanzado",
-          "comentario": "La estudiante lee las palabras de forma global y no necesita recurrir al silabeo en ninguna parte del texto."
+          "nivel": "Logrado",
+          "comentario": "El alumno lee la mayor parte del texto de forma global, pero presenta un ligero titubeo y fragmentación al leer la palabra 'investigan', recurriendo a la estrategia silábica como apoyo."
         },
         "manejo_ritmo": {
           "nivel": "Logrado",
-          "comentario": "Marca correctamente el final de las oraciones entonando hacia abajo al llegar a los puntos."
+          "comentario": "Muestra una entonación descendente clara y consistente al llegar a los puntos, aunque su lectura carece de la variación prosódica expresiva necesaria para un nivel avanzado."
         },
         "manejo_respiracion": {
           "nivel": "Logrado",
-          "comentario": "Realiza las pausas adecuadas al encontrarse con los puntos, lo que le permite un buen manejo del aire durante la lectura."
+          "comentario": "Realiza pausas adecuadas al encontrarse con los signos de puntuación como los puntos seguidos, lo que le permite mantener el sentido de la lectura."
         },
         "precision": {
           "nivel": "Logrado",
-          "comentario": "Lee el texto con buena precisión general, cometiendo solo dos errores aislados: omite la palabra 'En' al inicio y titubea añadiendo/cambiando palabras ('y', 'un') antes de corregirse en la última oración."
+          "comentario": "Comete un par de errores aislados no fonológicos a lo largo del texto, como omitir 'En' al inicio de la primera oración y agregar 'un' antes de 'si hubo vida'."
         },
         "fluidez_lectora": {
           "nivel": "Logrado",
-          "comentario": "Al registrar 86.2 palabras por minuto, la alumna se encuentra dentro del rango de 71-90 PPM, ubicándose en la Etapa de Transición hacia Expresiva."
+          "comentario": "Con una velocidad de 86 palabras por minuto, el estudiante se ubica en el rango de 71 a 90 WPM, propio de la Etapa de Transición."
         }
       }
     },
-    "timestamp": "2026-06-21T15:49:17.771600"
+    "timestamp": "2026-06-22T22:26:43.476508"
   },
   {
     "id_lectura": 52508,
     "archivo": "lectura_52508_2025-10-23_12-34-47.wav",
     "modelo": "gemini-pro",
     "evaluacion": {
-      "match": true,
-      "similaridad": 0.7665369649805448,
-      "transcripcion": "En el Sistema Solar hay ocho planetas. Marte es el cuarto planeta más cercano al Sol. Es el segundo más pequeño. Su color es rojo. Desde la Tierra se lo pueden observar con un telescopio. Hace varios años los científicos y investigadores se ubicaron en ese planeta.",
       "palabras_por_minuto": 38.27,
       "modelo": "gemini-pro",
       "evaluacion": {
         "estrategia_silabica": {
-          "nivel": "Logrado",
-          "comentario": "El estudiante utiliza marcadamente la estrategia silábica para lograr decodificar la mayoría de las palabras del texto (ej. 'sis-te-ma', 'pla-ne-ta', 'se-gun-do')."
+          "nivel": "En proceso",
+          "comentario": "El estudiante recurre frecuentemente al silabeo (ej. 'so-lar', 'ce-r-ca-no', 'se-gun-do', 'ob-ser-var') y no logra leer de forma global la mayoría de las palabras, fragmentando gran parte del texto."
         },
         "manejo_ritmo": {
           "nivel": "Inicial",
-          "comentario": "La lectura es marcadamente silabeante, fragmentada y carece de entonación."
+          "comentario": "La lectura es marcadamente silabeante y monótona a lo largo de todo el texto, careciendo de entonación."
         },
         "manejo_respiracion": {
-          "nivel": "En proceso",
-          "comentario": "Debido al esfuerzo de decodificación, el estudiante realiza pausas constantes entre palabra y palabra (e incluso entre sílabas), sin guiarse por los signos de puntuación."
+          "nivel": "Logrado",
+          "comentario": "Si bien realiza múltiples pausas entre palabras debido al esfuerzo de decodificación, logra marcar las pausas correspondientes y tomar aire en los puntos al finalizar las oraciones."
         },
         "precision": {
           "nivel": "En proceso",
-          "comentario": "El estudiante cambia palabras por otras y adivina incorrectamente por ruta visual (lee 'investigadores' en lugar de 'investigan', 'pueden' por 'puede', 'esa' por 'ese'). También presenta sustitución de vocales ('tolescopio' por 'telescopio')."
+          "comentario": "Se observan errores de sustitución a nivel de palabra completa (lee 'investigadores' en lugar de 'investigan', 'pueden' en lugar de 'puede', 'esa' por 'ese')."
         },
         "fluidez_lectora": {
           "nivel": "Inicial",
-          "comentario": "Con un registro de 38.3 palabras por minuto, el estudiante se ubica plenamente en la etapa fonológica (rango de 0 a 49 ppm)."
+          "comentario": "La velocidad lectora es de 38 palabras por minuto, lo que lo ubica en el rango de 0-49, propio de una etapa fonológica."
         }
       }
     },
-    "timestamp": "2026-06-21T15:49:46.349791"
+    "timestamp": "2026-06-22T22:27:16.812826"
   },
   {
     "id_lectura": 52509,
     "archivo": "lectura_52509_2025-10-23_12-51-35.wav",
     "modelo": "gemini-pro",
     "evaluacion": {
-      "match": true,
-      "similaridad": 1.0,
-      "transcripcion": "En el Sistema Solar hay ocho planetas. Marte es el cuarto planeta más cercano al Sol. Es el segundo más pequeño. Su color es rojizo desde la Tierra. Se lo puede observar con un telescopio. Hace varios años los científicos investigan si hubo vida en ese planeta.",
       "palabras_por_minuto": 61.44,
       "modelo": "gemini-pro",
       "evaluacion": {
         "estrategia_silabica": {
           "nivel": "Logrado",
-          "comentario": "El estudiante utiliza efectivamente la estrategia silábica para apoyarse en la decodificación de palabras más largas o complejas (como 'te-le-co-pio' o 'ci-en-tí-fi-cos'), logrando avanzar en la lectura del texto."
+          "comentario": "El estudiante logra leer de forma global la mayoría del texto, pero recurre a la fragmentación o titubeo como apoyo en algunas palabras puntuales (ejemplo: 'ma-marte', 'des-de', 'ci-científicos')."
         },
         "manejo_ritmo": {
-          "nivel": "Inicial",
-          "comentario": "La lectura es silabeante en varios fragmentos y carece de variaciones de tono, manteniéndose plana y sin entonar adecuadamente en las oraciones."
+          "nivel": "En proceso",
+          "comentario": "La lectura se percibe monótona y plana. No hay cambios de entonación al llegar a los puntos y comas, aunque logra evitar el silabeo constante de las palabras."
         },
         "manejo_respiracion": {
           "nivel": "En proceso",
-          "comentario": "El alumno realiza pausas constantes entre palabra y palabra, e incluso en medio de estas durante el silabeo, sin guiarse exclusivamente por los puntos y comas."
+          "comentario": "Realiza pausas entre algunas palabras y en momentos de decodificación, pero ignora los signos de puntuación, pasando por alto los puntos seguidos sin realizar las pausas correspondientes."
         },
         "precision": {
           "nivel": "Inicial",
-          "comentario": "Comete errores fonológicos consistentes en la omisión de letras. Por ejemplo, omite la 's' al leer 'sitema' (sistema) y 'telecopio' (telescopio), además de tener dificultades de precisión en la palabra 'hubo'."
+          "comentario": "Comete errores fonológicos a nivel de grafema. Por ejemplo, omite la letra 's' al leer 'sitema' en lugar de 'sistema' y cambia letras al leer 'hubie' en vez de 'hubo'."
         },
         "fluidez_lectora": {
           "nivel": "En proceso",
-          "comentario": "Con una marca de 61.4 palabras por minuto, el estudiante se ubica en el rango de 50 a 70 PPM, correspondiente a la etapa ortográfica."
+          "comentario": "Con 61.4 palabras por minuto, el estudiante se ubica en el rango de 50 a 70 PPM, correspondiendo a la etapa ortográfica."
         }
       }
     },
-    "timestamp": "2026-06-21T15:50:20.276899"
+    "timestamp": "2026-06-22T22:27:37.531858"
   },
   {
     "id_lectura": 52514,
     "archivo": "lectura_52514_2025-10-23_12-53-48.wav",
     "modelo": "gemini-pro",
     "evaluacion": {
-      "match": true,
-      "similaridad": 0.8571428571428571,
-      "transcripcion": "En el Sistema Solar hay ocho planetas, Marte es el cuarto planeta más cercano al Sol. Es el segundo más pequeño su color. Es rojo, es rojizo, rojizo. Desve la Tierra. Se lo puede observar con un telescopio hace varios años los científicos. Investigan su envolvida en ese planeta.",
       "palabras_por_minuto": 35.63,
       "modelo": "gemini-pro",
       "evaluacion": {
         "estrategia_silabica": {
           "nivel": "Logrado",
-          "comentario": "La estudiante utiliza de forma evidente la estrategia silábica para la decodificación durante toda la lectura."
+          "comentario": "El estudiante logra leer de forma global palabras cortas y frecuentes, pero recurre de manera constante al silabeo como apoyo para decodificar palabras largas o más complejas (ej. sis-te-ma, cu-ar-to, se-gun-do, ob-ser-var)."
         },
         "manejo_ritmo": {
           "nivel": "Inicial",
-          "comentario": "La lectura es marcadamente silabeante y carece de entonación."
+          "comentario": "Debido a la dependencia del silabeo para la decodificación, la lectura es silabeante y fragmentada, careciendo de la entonación adecuada para dar sentido al texto."
         },
         "manejo_respiracion": {
           "nivel": "En proceso",
-          "comentario": "Realiza pausas frecuentes entre palabra y palabra, y también entre sílabas, debido al esfuerzo de decodificación."
+          "comentario": "El estudiante realiza pausas frecuentes entre sílabas y palabras originadas por el esfuerzo de decodificación, más que por estar guiándose a través de los signos de puntuación del texto."
         },
         "precision": {
           "nivel": "Inicial",
-          "comentario": "Sustituye y añade letras al leer, evidenciado en errores como decir 'desbe/desve' por 'desde', 'rojicio' por 'rojizo' y 'varirios' por 'varios'."
+          "comentario": "Presenta errores fonológicos a nivel de grafema, modificando letras dentro de una misma palabra. Por ejemplo, lee 'desbe' en lugar de 'desde', 'varirios' en vez de 'varios' y 'umbo' en lugar de 'hubo'. Aunque hay intentos de autocorrección (ej. con 'rojizo'), los errores no corregidos mantienen el nivel inicial."
         },
         "fluidez_lectora": {
           "nivel": "Inicial",
-          "comentario": "Alcanza 35.6 palabras por minuto, ubicándose en el rango de 0-49 palabras por minuto que corresponde a la etapa fonológica."
+          "comentario": "Al leer 35.6 palabras por minuto, el desempeño se ubica en el rango de 0-49 WPM, lo que indica que se encuentra en la etapa fonológica de la lectura."
         }
       }
     },
-    "timestamp": "2026-06-21T15:50:52.581342"
+    "timestamp": "2026-06-22T22:28:11.082284"
   },
   {
     "id_lectura": 52945,
     "archivo": "lectura_52945_2025-11-03_12-55-10.wav",
     "modelo": "gemini-pro",
     "evaluacion": {
-      "match": true,
-      "similaridad": 0.8588235294117647,
-      "transcripcion": "En el Sistema Solar hay ocho planetas, Marte es el cuarto planeta más cercano al Sol. Es el segundo más pequeño, su color se rojizó desde la Tierra. Es lo que se observa con un telescopio hace varios años. Los científicos inventaron si hubo vida en ese planeta.",
       "palabras_por_minuto": 29.8,
       "modelo": "gemini-pro",
       "evaluacion": {
         "estrategia_silabica": {
-          "nivel": "Logrado",
-          "comentario": "Utiliza de manera evidente y constante la estrategia silábica para decodificar la mayor parte de las palabras del texto (ej. 'sis-te-ma', 'cu-ar-to', 'ci-en-ti-fi-cos')."
+          "nivel": "En proceso",
+          "comentario": "El estudiante recurre a la decodificación silábica en la gran mayoría de las palabras del texto (tanto simples como complejas), sin lograr todavía una lectura global sostenida."
         },
         "manejo_ritmo": {
           "nivel": "Inicial",
-          "comentario": "La lectura es marcadamente silabeante y carece de entonación, ya que el esfuerzo cognitivo está centrado en la decodificación letra por letra y sílaba por sílaba."
+          "comentario": "La lectura es marcadamente silabeante y fragmentada, lo que impide que se observe un fraseo o una entonación expresiva a lo largo del texto."
         },
         "manejo_respiracion": {
           "nivel": "En proceso",
-          "comentario": "Las pausas que realiza ocurren entre sílabas y entre palabra y palabra debido al esfuerzo de decodificación, sin respetar las pausas naturales de los puntos."
+          "comentario": "Realiza múltiples pausas motivadas por el esfuerzo de decodificación entre sílabas y palabras, pero no se guía por los signos de puntuación, omitiendo las pausas correspondientes en varios puntos (después de 'sol', 'pequeño' y 'rojizo')."
         },
         "precision": {
           "nivel": "En proceso",
-          "comentario": "Presenta inversiones ('se' por 'es', 'es lo' por 'se lo'), sustitución de consonantes ('puete' por 'puede') y adivinación incorrecta de palabras ('inventaron' en lugar de 'investigan')."
+          "comentario": "Presenta cambios a nivel de palabra completa (lee 'inventaron' en lugar de 'investigan') y algunas confusiones o inversiones en palabras cortas ('se' por 'es' y viceversa), además de errores fonológicos ('puete' por 'puede'). Sí logra realizar algunas autocorrecciones exitosas ('observar', 'telescopio')."
         },
         "fluidez_lectora": {
           "nivel": "Inicial",
-          "comentario": "Alcanza un promedio de 29.8 palabras por minuto, ubicándose en la etapa fonológica de la lectura."
+          "comentario": "Su velocidad es de 29.8 palabras por minuto, lo cual la ubica dentro de la etapa fonológica."
         }
       }
     },
-    "timestamp": "2026-06-21T15:51:28.111512"
+    "timestamp": "2026-06-22T22:28:46.181969"
   },
   {
     "id_lectura": 52948,
     "archivo": "lectura_52948_2025-11-03_13-10-49.wav",
     "modelo": "gemini-pro",
     "evaluacion": {
-      "match": true,
-      "similaridad": 0.9265536723163842,
-      "transcripcion": "En el Sistema Solar hay ocho planetas, Marte es el cuarto planeta más que se ve cana del Sol, es el segundo más pequeño, su color es rojizo, desde la Tierra se lo puede observar con un telescopio. Hace varios años los científicos inventaron y investigan si hubo vida en ese planeta.",
       "palabras_por_minuto": 36.38,
       "modelo": "gemini-pro",
       "evaluacion": {
         "estrategia_silabica": {
           "nivel": "Logrado",
-          "comentario": "El estudiante utiliza de manera evidente la estrategia silábica para lograr la lectura, apoyándose en el silabeo para decodificar palabras largas o complejas (ej. ro-ji-zo, ob-ser-var, in-ves-ti-gan)."
+          "comentario": "El estudiante lee varias palabras de forma global, pero recurre de manera evidente al silabeo como estrategia de apoyo para decodificar palabras largas o complejas (tales como 'sistema', 'científicos' o 'investigan')."
         },
         "manejo_ritmo": {
           "nivel": "Inicial",
-          "comentario": "Lee de forma marcadamente silabeante, con múltiples interrupciones, falsos arranques y sin lograr una entonación natural del texto."
+          "comentario": "La lectura se presenta de forma silabeante, fragmentada y sin entonación, debido al gran esfuerzo cognitivo que aún requiere el proceso de decodificación de muchas palabras."
         },
         "manejo_respiracion": {
-          "nivel": "En proceso",
-          "comentario": "Realiza constantes pausas entre palabras (e incluso entre sílabas) debido al esfuerzo de decodificación, omitiendo las pausas correspondientes a los signos de puntuación, como el punto después de 'planetas'."
+          "nivel": "Logrado",
+          "comentario": "A pesar de hacer múltiples pausas adicionales entre palabras y sílabas por su esfuerzo de lectura, el estudiante logra marcar adecuadamente las pausas en los signos de puntuación (puntos) presentes en el texto."
         },
         "precision": {
-          "nivel": "Inicial",
-          "comentario": "Sustituye, añade y omite letras durante la lectura, evidenciando dificultades fonológicas en varias palabras (ej. lee 'ce... de... cano' por cercano, 'sini-fi-fi' por científicos, e 'inventigan' por investigan)."
+          "nivel": "Logrado",
+          "comentario": "Realiza muchos intentos de decodificación, pero logra autocorregirse de forma inmediata antes de avanzar (como en 'del' por 'al', o al intentar leer 'investigan'). Solo comete un error leve aislado que no afecta la comprensión global, como leer 'varias' en lugar de 'varios'."
         },
         "fluidez_lectora": {
           "nivel": "Inicial",
-          "comentario": "Su velocidad es de 36.4 palabras por minuto, ubicándose dentro del rango de 0-49 ppm, lo que indica que se encuentra en la etapa fonológica."
+          "comentario": "Con 36.4 palabras por minuto, el desempeño se ubica en la etapa fonológica (0-49 palabras por minuto)."
         }
       }
     },
-    "timestamp": "2026-06-21T15:52:01.551131"
+    "timestamp": "2026-06-22T22:29:24.982925"
   },
   {
     "id_lectura": 52949,
     "archivo": "lectura_52949_2025-11-03_13-13-00.wav",
     "modelo": "gemini-pro",
     "evaluacion": {
-      "match": true,
-      "similaridad": 0.98828125,
-      "transcripcion": "En el Sistema Solar hay ocho planetas, Marte es el cuarto planeta más cercano al Sol, es el segundo más pequeño, su color es rojísimo, desde la Tierra se lo puede observar con un telescopio. Hace varios años los científicos investigan si hubo vida en ese planeta.",
       "palabras_por_minuto": 59.45,
       "modelo": "gemini-pro",
       "evaluacion": {
         "estrategia_silabica": {
           "nivel": "Logrado",
-          "comentario": "Utiliza la estrategia silábica como apoyo para decodificar algunas palabras durante la lectura (por ejemplo, en 'cua-cuarto', 'inves-tigan', 'vi-vida', 'e-se')."
+          "comentario": "El estudiante lee de forma global la mayor parte del texto, pero recurre al silabeo y fragmentación como apoyo en palabras específicas (por ejemplo en 'cuarto', 'cercano' y 'rojizo')."
         },
         "manejo_ritmo": {
           "nivel": "En proceso",
-          "comentario": "La lectura es monótona, leyendo mayormente palabra por palabra y sin una entonación expresiva clara, aunque no silabea la totalidad de las palabras."
+          "comentario": "Lee de manera monótona. No se evidencia una entonación clara y consistente hacia abajo en los puntos, sino un tono más bien lineal a lo largo de toda la lectura."
         },
         "manejo_respiracion": {
-          "nivel": "En proceso",
-          "comentario": "Realiza pausas frecuentes entre palabra y palabra o fragmentos cortos a lo largo de las oraciones, no limitándose solo a los signos de puntuación."
+          "nivel": "Logrado",
+          "comentario": "Aunque presenta pausas adicionales entre palabras por el esfuerzo propio de decodificación, logra hacer pausas correspondientes en los signos de puntuación (puntos)."
         },
         "precision": {
-          "nivel": "En proceso",
-          "comentario": "Tiende a adivinar o cambiar algunas palabras inicialmente (lee 'cerca' en lugar de 'cercano' y 'rojísimo' en lugar de 'rojizo'), aunque logra autocorregirse."
+          "nivel": "Avanzado",
+          "comentario": "El estudiante comete errores de lectura al principio de algunas palabras ('cerca' por cercano, 'rojísimo' por rojizo), pero se autocorrige de manera inmediata en todos los casos, finalizando la lectura sin errores residuales."
         },
         "fluidez_lectora": {
           "nivel": "En proceso",
-          "comentario": "Con 59.5 palabras por minuto, se ubica en el rango de 50-70 WPM, lo que corresponde a la etapa ortográfica."
+          "comentario": "Con una velocidad de 59.5 palabras por minuto, se ubica en el rango de 50-70 PPM, correspondiendo a la etapa ortográfica."
         }
       }
     },
-    "timestamp": "2026-06-21T15:52:30.837075"
+    "timestamp": "2026-06-22T22:29:46.095473"
   }
 ]

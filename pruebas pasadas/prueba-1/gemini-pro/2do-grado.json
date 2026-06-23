@@ -1,0 +1,282 @@
+[
+  {
+    "id_lectura": 52491,
+    "archivo": "lectura_52491_2025-10-23_12-19-07.wav",
+    "modelo": "gemini-pro",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 0.9921568627450981,
+      "transcripcion": "En el Sistema Solar hay ocho planetas, Marte es un cuarto planeta más cercano al Sol, es el segundo más pequeño, su color es rojizo, desde la Tierra se lo puede observar con un telescopio. Hace varios años los científicos investigan si hubo vida en ese planeta.",
+      "palabras_por_minuto": 65.46,
+      "modelo": "gemini-pro",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El estudiante utiliza la estrategia silábica de forma efectiva para decodificar palabras más largas o complejas, como se observa al leer 'te-les-co-pio', 'in-ves-ti-gan' y 'e-se'."
+        },
+        "manejo_ritmo": {
+          "nivel": "En proceso",
+          "comentario": "La lectura tiene un ritmo predominantemente monótono y en algunas secciones se realiza palabra por palabra, aunque logra evitar el silabeo constante en la mayor parte del texto."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "El estudiante logra identificar y respetar los signos de puntuación, haciendo las pausas correspondientes de manera clara en los puntos seguidos al finalizar cada oración."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "Comete errores de sustitución al cambiar algunas palabras y letras, leyendo 'un' en lugar de 'el' y 'su' en lugar de 'si', llegando a repetir la frase en un intento de autocorrección sin éxito."
+        },
+        "fluidez_lectora": {
+          "nivel": "En proceso",
+          "comentario": "Alcanza una velocidad de 65.5 palabras por minuto, lo que lo ubica dentro del rango de 50-70 PPM, correspondiente a la etapa ortográfica."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:48:46.007705"
+  },
+  {
+    "id_lectura": 52495,
+    "archivo": "lectura_52495_2025-10-23_12-22-54.wav",
+    "modelo": "gemini-pro",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 0.9940828402366864,
+      "transcripcion": "El sistema solar hay ocho planetas. Marte es el cuarto planeta más cercano al Sol. Es el segundo más pequeño. Su color es rojizo. Desde la Tierra se lo puede observar con un telescopio. Hace varios años los científicos investigan si hubo vida en ese planeta.",
+      "palabras_por_minuto": 86.23,
+      "modelo": "gemini-pro",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "La estudiante lee las palabras de forma global y no necesita recurrir al silabeo en ninguna parte del texto."
+        },
+        "manejo_ritmo": {
+          "nivel": "Logrado",
+          "comentario": "Marca correctamente el final de las oraciones entonando hacia abajo al llegar a los puntos."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "Realiza las pausas adecuadas al encontrarse con los puntos, lo que le permite un buen manejo del aire durante la lectura."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Lee el texto con buena precisión general, cometiendo solo dos errores aislados: omite la palabra 'En' al inicio y titubea añadiendo/cambiando palabras ('y', 'un') antes de corregirse en la última oración."
+        },
+        "fluidez_lectora": {
+          "nivel": "Logrado",
+          "comentario": "Al registrar 86.2 palabras por minuto, la alumna se encuentra dentro del rango de 71-90 PPM, ubicándose en la Etapa de Transición hacia Expresiva."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:49:17.771600"
+  },
+  {
+    "id_lectura": 52508,
+    "archivo": "lectura_52508_2025-10-23_12-34-47.wav",
+    "modelo": "gemini-pro",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 0.7665369649805448,
+      "transcripcion": "En el Sistema Solar hay ocho planetas. Marte es el cuarto planeta más cercano al Sol. Es el segundo más pequeño. Su color es rojo. Desde la Tierra se lo pueden observar con un telescopio. Hace varios años los científicos y investigadores se ubicaron en ese planeta.",
+      "palabras_por_minuto": 38.27,
+      "modelo": "gemini-pro",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El estudiante utiliza marcadamente la estrategia silábica para lograr decodificar la mayoría de las palabras del texto (ej. 'sis-te-ma', 'pla-ne-ta', 'se-gun-do')."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "La lectura es marcadamente silabeante, fragmentada y carece de entonación."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Debido al esfuerzo de decodificación, el estudiante realiza pausas constantes entre palabra y palabra (e incluso entre sílabas), sin guiarse por los signos de puntuación."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "El estudiante cambia palabras por otras y adivina incorrectamente por ruta visual (lee 'investigadores' en lugar de 'investigan', 'pueden' por 'puede', 'esa' por 'ese'). También presenta sustitución de vocales ('tolescopio' por 'telescopio')."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "Con un registro de 38.3 palabras por minuto, el estudiante se ubica plenamente en la etapa fonológica (rango de 0 a 49 ppm)."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:49:46.349791"
+  },
+  {
+    "id_lectura": 52509,
+    "archivo": "lectura_52509_2025-10-23_12-51-35.wav",
+    "modelo": "gemini-pro",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 1.0,
+      "transcripcion": "En el Sistema Solar hay ocho planetas. Marte es el cuarto planeta más cercano al Sol. Es el segundo más pequeño. Su color es rojizo desde la Tierra. Se lo puede observar con un telescopio. Hace varios años los científicos investigan si hubo vida en ese planeta.",
+      "palabras_por_minuto": 61.44,
+      "modelo": "gemini-pro",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El estudiante utiliza efectivamente la estrategia silábica para apoyarse en la decodificación de palabras más largas o complejas (como 'te-le-co-pio' o 'ci-en-tí-fi-cos'), logrando avanzar en la lectura del texto."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "La lectura es silabeante en varios fragmentos y carece de variaciones de tono, manteniéndose plana y sin entonar adecuadamente en las oraciones."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "El alumno realiza pausas constantes entre palabra y palabra, e incluso en medio de estas durante el silabeo, sin guiarse exclusivamente por los puntos y comas."
+        },
+        "precision": {
+          "nivel": "Inicial",
+          "comentario": "Comete errores fonológicos consistentes en la omisión de letras. Por ejemplo, omite la 's' al leer 'sitema' (sistema) y 'telecopio' (telescopio), además de tener dificultades de precisión en la palabra 'hubo'."
+        },
+        "fluidez_lectora": {
+          "nivel": "En proceso",
+          "comentario": "Con una marca de 61.4 palabras por minuto, el estudiante se ubica en el rango de 50 a 70 PPM, correspondiente a la etapa ortográfica."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:50:20.276899"
+  },
+  {
+    "id_lectura": 52514,
+    "archivo": "lectura_52514_2025-10-23_12-53-48.wav",
+    "modelo": "gemini-pro",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 0.8571428571428571,
+      "transcripcion": "En el Sistema Solar hay ocho planetas, Marte es el cuarto planeta más cercano al Sol. Es el segundo más pequeño su color. Es rojo, es rojizo, rojizo. Desve la Tierra. Se lo puede observar con un telescopio hace varios años los científicos. Investigan su envolvida en ese planeta.",
+      "palabras_por_minuto": 35.63,
+      "modelo": "gemini-pro",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "La estudiante utiliza de forma evidente la estrategia silábica para la decodificación durante toda la lectura."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "La lectura es marcadamente silabeante y carece de entonación."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Realiza pausas frecuentes entre palabra y palabra, y también entre sílabas, debido al esfuerzo de decodificación."
+        },
+        "precision": {
+          "nivel": "Inicial",
+          "comentario": "Sustituye y añade letras al leer, evidenciado en errores como decir 'desbe/desve' por 'desde', 'rojicio' por 'rojizo' y 'varirios' por 'varios'."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "Alcanza 35.6 palabras por minuto, ubicándose en el rango de 0-49 palabras por minuto que corresponde a la etapa fonológica."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:50:52.581342"
+  },
+  {
+    "id_lectura": 52945,
+    "archivo": "lectura_52945_2025-11-03_12-55-10.wav",
+    "modelo": "gemini-pro",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 0.8588235294117647,
+      "transcripcion": "En el Sistema Solar hay ocho planetas, Marte es el cuarto planeta más cercano al Sol. Es el segundo más pequeño, su color se rojizó desde la Tierra. Es lo que se observa con un telescopio hace varios años. Los científicos inventaron si hubo vida en ese planeta.",
+      "palabras_por_minuto": 29.8,
+      "modelo": "gemini-pro",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "Utiliza de manera evidente y constante la estrategia silábica para decodificar la mayor parte de las palabras del texto (ej. 'sis-te-ma', 'cu-ar-to', 'ci-en-ti-fi-cos')."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "La lectura es marcadamente silabeante y carece de entonación, ya que el esfuerzo cognitivo está centrado en la decodificación letra por letra y sílaba por sílaba."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Las pausas que realiza ocurren entre sílabas y entre palabra y palabra debido al esfuerzo de decodificación, sin respetar las pausas naturales de los puntos."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "Presenta inversiones ('se' por 'es', 'es lo' por 'se lo'), sustitución de consonantes ('puete' por 'puede') y adivinación incorrecta de palabras ('inventaron' en lugar de 'investigan')."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "Alcanza un promedio de 29.8 palabras por minuto, ubicándose en la etapa fonológica de la lectura."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:51:28.111512"
+  },
+  {
+    "id_lectura": 52948,
+    "archivo": "lectura_52948_2025-11-03_13-10-49.wav",
+    "modelo": "gemini-pro",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 0.9265536723163842,
+      "transcripcion": "En el Sistema Solar hay ocho planetas, Marte es el cuarto planeta más que se ve cana del Sol, es el segundo más pequeño, su color es rojizo, desde la Tierra se lo puede observar con un telescopio. Hace varios años los científicos inventaron y investigan si hubo vida en ese planeta.",
+      "palabras_por_minuto": 36.38,
+      "modelo": "gemini-pro",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El estudiante utiliza de manera evidente la estrategia silábica para lograr la lectura, apoyándose en el silabeo para decodificar palabras largas o complejas (ej. ro-ji-zo, ob-ser-var, in-ves-ti-gan)."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "Lee de forma marcadamente silabeante, con múltiples interrupciones, falsos arranques y sin lograr una entonación natural del texto."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Realiza constantes pausas entre palabras (e incluso entre sílabas) debido al esfuerzo de decodificación, omitiendo las pausas correspondientes a los signos de puntuación, como el punto después de 'planetas'."
+        },
+        "precision": {
+          "nivel": "Inicial",
+          "comentario": "Sustituye, añade y omite letras durante la lectura, evidenciando dificultades fonológicas en varias palabras (ej. lee 'ce... de... cano' por cercano, 'sini-fi-fi' por científicos, e 'inventigan' por investigan)."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "Su velocidad es de 36.4 palabras por minuto, ubicándose dentro del rango de 0-49 ppm, lo que indica que se encuentra en la etapa fonológica."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:52:01.551131"
+  },
+  {
+    "id_lectura": 52949,
+    "archivo": "lectura_52949_2025-11-03_13-13-00.wav",
+    "modelo": "gemini-pro",
+    "evaluacion": {
+      "match": true,
+      "similaridad": 0.98828125,
+      "transcripcion": "En el Sistema Solar hay ocho planetas, Marte es el cuarto planeta más cercano al Sol, es el segundo más pequeño, su color es rojísimo, desde la Tierra se lo puede observar con un telescopio. Hace varios años los científicos investigan si hubo vida en ese planeta.",
+      "palabras_por_minuto": 59.45,
+      "modelo": "gemini-pro",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "Utiliza la estrategia silábica como apoyo para decodificar algunas palabras durante la lectura (por ejemplo, en 'cua-cuarto', 'inves-tigan', 'vi-vida', 'e-se')."
+        },
+        "manejo_ritmo": {
+          "nivel": "En proceso",
+          "comentario": "La lectura es monótona, leyendo mayormente palabra por palabra y sin una entonación expresiva clara, aunque no silabea la totalidad de las palabras."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Realiza pausas frecuentes entre palabra y palabra o fragmentos cortos a lo largo de las oraciones, no limitándose solo a los signos de puntuación."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "Tiende a adivinar o cambiar algunas palabras inicialmente (lee 'cerca' en lugar de 'cercano' y 'rojísimo' en lugar de 'rojizo'), aunque logra autocorregirse."
+        },
+        "fluidez_lectora": {
+          "nivel": "En proceso",
+          "comentario": "Con 59.5 palabras por minuto, se ubica en el rango de 50-70 WPM, lo que corresponde a la etapa ortográfica."
+        }
+      }
+    },
+    "timestamp": "2026-06-21T15:52:30.837075"
+  }
+]
