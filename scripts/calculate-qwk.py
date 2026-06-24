@@ -30,7 +30,7 @@ PROYECTO_ROOT = Path(__file__).parent.parent
 SALIDA_DIR    = PROYECTO_ROOT / "prueba-1"
 DATOS_JSON    = PROYECTO_ROOT / "data" / "datos_lectura.json"
 
-MODELOS = ["gemini-flash", "gemini-pro", "openai-audio"]
+MODELOS = ["gemini-flash", "gemini-pro", "openai-audio", "gemini-flash-thinking"]
 
 NOMBRE_GRADOS = {
     1: "1er-grado",
