@@ -36,7 +36,7 @@ TEXTOS_LECTURA = {
     4: "El búho es un ave de comportamiento nocturno. Por lo tanto, al haber escasez de luz, intercepta a sus presas a través del sonido. Es famoso y conocido por permanecer despierto durante la noche y descansar de día. A diferencia de las lechuzas, los búhos poseen plumas sobre su cabeza que son confundidas con orejas. La lechuza no posee estas plumas."
 }
 
-MODELOS_DISPONIBLES = ["gemini-flash", "gemini-pro", "openai-audio"]
+MODELOS_DISPONIBLES = ["gemini-flash", "gemini-pro", "openai-audio", "gemini-flash-thinking"]
 
 # Si pasás modelos por línea de comandos, corre solo esos.
 # Si no pasás nada, corre los 3 (comportamiento original).
@@ -133,7 +133,7 @@ def evaluar_audio(archivo_audio: Path, texto: str, modelo: str,
                     'model': (None, modelo)
                 }
 
-                response = requests.post(ENDPOINT, files=files, timeout=60)
+                response = requests.post(ENDPOINT, files=files, timeout=180)
 
                 if response.status_code == 200:
                     resultado = response.json()

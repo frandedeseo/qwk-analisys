@@ -1,0 +1,258 @@
+[
+  {
+    "id_lectura": 52854,
+    "archivo": "lectura_52854_2025-10-29_13-42-40.wav",
+    "modelo": "gemini-flash-thinking",
+    "evaluacion": {
+      "palabras_por_minuto": 13.87,
+      "modelo": "gemini-flash-thinking",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "En proceso",
+          "comentario": "El estudiante asocia grafemas y fonemas para decodificar las palabras de manera fragmentada y lenta, mostrando que se encuentra en transicion hacia la consolidacion de la estrategia silabica."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "La lectura se realiza de forma deletreada y silabeante, sin ningun tipo de entonacion ni fluidez ritmica."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Realiza pausas constantes entre fonemas, silabas y palabras debido al alto esfuerzo de decodificacion, sin guiarse por los signos de puntuacion del texto."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "Omite por completo la frase inicial 'Los perros' y decodifica la palabra 'tienen' como 'tiene', lo que altera la concordancia y comprension del inicio del texto."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "Con un registro de 13.9 WPM, el estudiante se ubica en el nivel Inicial, propio de la etapa fonologica de la lectura."
+        }
+      }
+    },
+    "timestamp": "2026-06-23T22:34:59.032701"
+  },
+  {
+    "id_lectura": 52855,
+    "archivo": "lectura_52855_2025-10-29_13-44-16.wav",
+    "modelo": "gemini-flash-thinking",
+    "evaluacion": {
+      "palabras_por_minuto": 117.65,
+      "modelo": "gemini-flash-thinking",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "El alumno decodifica de manera completamente global, fluida y automatizada. No recurre al silabeo en ningun momento de la lectura, ni siquiera ante palabras mas largas o complejas como 'inteligente'."
+        },
+        "manejo_ritmo": {
+          "nivel": "En proceso",
+          "comentario": "Aunque lee con una velocidad notable, la lectura resulta algo plana y corrida. Al omitir los puntos, no realiza la entonacion descendente ni los cambios de ritmo que delimitan las oraciones."
+        },
+        "manejo_respiracion": {
+          "nivel": "Inicial",
+          "comentario": "No respeta los signos de puntuacion para pausar y dosificar el aire. Une directamente el final de una oracion con el inicio de la siguiente sin realizar las pausas correspondientes en los puntos."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Muestra una lectura precisa con solo dos desviaciones menores que no alteran el sentido general: inserta la palabra 'el' antes de 'oido' y transforma la puntuacion leyendo 'oido es un' en lugar de 'oido. Es un'."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "Alcanza un ritmo de 117.6 palabras por minuto, lo que lo posiciona en la Etapa Expresiva Consolidada, demostrando una excelente velocidad de procesamiento lector."
+        }
+      }
+    },
+    "timestamp": "2026-06-23T22:35:18.354245"
+  },
+  {
+    "id_lectura": 52859,
+    "archivo": "lectura_52859_2025-10-29_14-22-06.wav",
+    "modelo": "gemini-flash-thinking",
+    "evaluacion": {
+      "palabras_por_minuto": 23.09,
+      "modelo": "gemini-flash-thinking",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "En proceso",
+          "comentario": "El estudiante se encuentra consolidando la asociacion de grafemas y fonemas a nivel silabico. Aunque logra leer de forma global algunas palabras cortas y sencillas, requiere recurrir al silabeo de manera constante y laboriosa para abordar la mayor parte de las palabras del texto, especialmente las complejas y de mayor longitud."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "La lectura se realiza de forma enteramente silabeante, lenta y sin ninguna entonacion o variacion de ritmo. El estudiante no logra dar expresividad ni fluidez al texto debido al esfuerzo que le demanda el proceso de decodificacion."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "El alumno realiza pausas constantes entre palabra y palabra, e incluso entre silabas, debido a la fatiga de decodificar y a la necesidad de recuperar el aire. Estas pausas no estan reguladas por la estructura sintactica ni por los signos de puntuacion presentes en el texto."
+        },
+        "precision": {
+          "nivel": "Inicial",
+          "comentario": "Se aprecian multiples errores a nivel de grafema, incluyendo la sustitucion y omision de letras que alteran el significado de las palabras (como leer 'amiel' en lugar de 'animal' o 'fuel' en lugar de 'fiel'). Tambien se registra un error de sustitucion de palabra completa al leer 'mujer' en vez de 'mejor'. Al ser los errores de letra un patron recurrente, se clasifica en nivel Inicial."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "El rendimiento del estudiante es de 23 WPM, ubicandolo en la etapa fonologica (nivel Inicial, de 0-49 WPM). Se recomienda intervencion orientada a fortalecer la correspondencia grafema-fonema y la automatizacion de la lectura para favorecer una transicion hacia la etapa ortografica."
+        }
+      }
+    },
+    "timestamp": "2026-06-23T22:35:45.848239"
+  },
+  {
+    "id_lectura": 52860,
+    "archivo": "lectura_52860_2025-10-29_14-24-26.wav",
+    "modelo": "gemini-flash-thinking",
+    "evaluacion": {
+      "palabras_por_minuto": 63.49,
+      "modelo": "gemini-flash-thinking",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El estudiante lee de forma global la mayor parte del texto, pero recurre a la fragmentacion y al silabeo como apoyo en la palabra 'oído' ('o... o... odio/odios'), lo que descarta el nivel Avanzado."
+        },
+        "manejo_ritmo": {
+          "nivel": "En proceso",
+          "comentario": "Muestra una lectura con un tono uniforme y monótono. No logra una entonación expresiva o natural, aunque evita el silabeo constante, manteniendo un ritmo regular pero plano."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "Realiza pausas adicionales debido a la decodificacion y un carraspeo inicial, pero respeta de manera clara y marcada la puntuacion al detenerse en los puntos seguidos."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Presenta una sustitución de palabra en 'oído' por 'odio/odios' y una leve vacilación al inicio con 'muy buen'. Al tratarse de errores aislados que no comprometen la comprension global, califica como Logrado."
+        },
+        "fluidez_lectora": {
+          "nivel": "En proceso",
+          "comentario": "Con un registro de 63 WPM, el estudiante se ubica en la etapa ortográfica de fluidez (rango de 50-70 WPM), mostrando un proceso de automatizacion en marcha."
+        }
+      }
+    },
+    "timestamp": "2026-06-23T22:36:05.587695"
+  },
+  {
+    "id_lectura": 52861,
+    "archivo": "lectura_52861_2025-10-29_14-21-03.wav",
+    "modelo": "gemini-flash-thinking",
+    "evaluacion": {
+      "palabras_por_minuto": 22.1,
+      "modelo": "gemini-flash-thinking",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "En proceso",
+          "comentario": "El estudiante demuestra la capacidad de asociar consonantes y vocales para decodificar sílabas, pero su lectura es sistemáticamente silábica ('per-ros', 'ol-fa-to', 'me-jor') en lugar de global, lo que indica que aún está consolidando esta etapa."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "El ritmo de lectura es sumamente lento y fragmentado, determinado por el silabeo constante y la falta absoluta de entonación o prosodia natural."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "El estudiante realiza múltiples pausas y cortes de aire entre sílabas y palabras debido al alto costo cognitivo de la decodificación, sin guiarse de forma selectiva por los signos de puntuación."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "A pesar de la lentitud, la lectura es altamente precisa. Comete únicamente un error de sustitución de grafema aislado ('amimal' por 'animal') y una vacilación autocorregida de inmediato en 'buen', lo que no interfiere con la decodificación general del mensaje."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "Con un registro de 22.1 WPM, el alumno se posiciona en el nivel Inicial (etapa fonológica), lo cual es concordante con su perfil de decodificación silábica y pausada."
+        }
+      }
+    },
+    "timestamp": "2026-06-23T22:36:33.662612"
+  },
+  {
+    "id_lectura": 52862,
+    "archivo": "lectura_52862_2025-10-29_14-23-25.wav",
+    "modelo": "gemini-flash-thinking",
+    "evaluacion": {
+      "palabras_por_minuto": 27.78,
+      "modelo": "gemini-flash-thinking",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "En proceso",
+          "comentario": "El estudiante se encuentra en la etapa de asociar consonantes y vocales para decodificar sílabas. Aunque logra leer palabras complejas mediante el silabeo, aún depende de esta estrategia para la mayor parte del texto y no accede a la lectura global de forma espontánea."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "La lectura se realiza de forma silabeante y monótona, sin variaciones de tono ni expresión, debido al esfuerzo focalizado en la decodificación de cada palabra."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Las pausas se producen de manera continua entre palabra y palabra, supeditadas al proceso de decodificación, sin seguir la estructura que marcan los signos de puntuación del texto."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "El alumno decodifica correctamente todas las palabras del texto original. Se observan algunas repeticiones y vacilaciones para autoasistirse, pero no realiza sustituciones u omisiones que alteren el sentido."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "Con un registro de 27.8 palabras por minuto (WPM), el estudiante se sitúa en el nivel Inicial (etapa fonológica), lo cual es coherente con su necesidad de decodificación silábica activa."
+        }
+      }
+    },
+    "timestamp": "2026-06-23T22:36:58.760854"
+  },
+  {
+    "id_lectura": 52863,
+    "archivo": "lectura_52863_2025-10-29_14-24-00.wav",
+    "modelo": "gemini-flash-thinking",
+    "evaluacion": {
+      "palabras_por_minuto": 49.63,
+      "modelo": "gemini-flash-thinking",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El alumno logra leer de manera global casi todas las palabras del texto, aunque recurre a una decodificacion lenta en palabras mas complejas como 'inteligente', lo que evidencia que la estrategia silabica aun funciona como un soporte necesario para mantener la precision."
+        },
+        "manejo_ritmo": {
+          "nivel": "En proceso",
+          "comentario": "La lectura se presenta de forma bastante monotona y pausada, palabra por palabra, lo que le impide otorgar una entonacion adecuada o natural al texto, manteniendose en una etapa de transicion."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Se observan pausas constantes entre casi todas las palabras del texto debido al esfuerzo cognitivo que requiere la decodificacion. No se aprecia una diferenciacion o intencionalidad clara en los signos de puntuacion."
+        },
+        "precision": {
+          "nivel": "Avanzado",
+          "comentario": "Excelente desempeño en precision, logrando leer la totalidad del texto sin cometer errores, sustituciones, omisiones ni distorsiones en ninguna de las palabras presentadas."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "Registra 49.6 palabras por minuto, lo que lo ubica en el limite superior de la etapa fonologica (nivel Inicial). Requiere mayor automatizacion de la decodificacion para mejorar su velocidad lectora."
+        }
+      }
+    },
+    "timestamp": "2026-06-23T22:37:19.358661"
+  },
+  {
+    "id_lectura": 52866,
+    "archivo": "lectura_52866_2025-10-29_14-34-25.wav",
+    "modelo": "gemini-flash-thinking",
+    "evaluacion": {
+      "palabras_por_minuto": 15.19,
+      "modelo": "gemini-flash-thinking",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "En proceso",
+          "comentario": "El estudiante se encuentra en una etapa de decodificación predominantemente silábica. Logra asociar consonantes y vocales para formar sílabas, pero aún no consolida la lectura global de las palabras."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "La lectura es silabeante, lenta y monótona, sin una entonación que acompañe el sentido de las oraciones."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Se observan pausas constantes entre sílabas y palabras debido al esfuerzo de decodificación, sin guiar las detenciones por la puntuación del texto."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "El alumno decodifica de forma precisa la mayor parte de las palabras sin cometer sustituciones o distorsiones significativas, manteniendo la fidelidad al texto original a pesar del ritmo lento."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "Registra una velocidad de 15.2 WPM, lo cual lo sitúa en la etapa fonológica inicial de lectura."
+        }
+      }
+    },
+    "timestamp": "2026-06-23T22:37:45.432253"
+  }
+]

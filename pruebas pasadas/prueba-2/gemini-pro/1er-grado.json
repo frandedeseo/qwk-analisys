@@ -1,0 +1,258 @@
+[
+  {
+    "id_lectura": 52854,
+    "archivo": "lectura_52854_2025-10-29_13-42-40.wav",
+    "modelo": "gemini-pro",
+    "evaluacion": {
+      "palabras_por_minuto": 13.87,
+      "modelo": "gemini-pro",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Inicial",
+          "comentario": "La alumna se encuentra en una etapa de decodificación fonema por fonema (letra por letra), sin lograr asociar los sonidos para formar sílabas o palabras completas de manera fluida."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "La lectura carece de ritmo y entonación debido a que se realiza mediante el deletreo o pronunciación aislada de cada sonido, de forma extremadamente fragmentada."
+        },
+        "manejo_respiracion": {
+          "nivel": "Inicial",
+          "comentario": "Las pausas se producen continuamente después de cada sonido por el gran esfuerzo de decodificación, perdiéndose por completo la función de los signos de puntuación."
+        },
+        "precision": {
+          "nivel": "Inicial",
+          "comentario": "Presenta errores a nivel de grafema por su decodificación aislada, como pronunciar la 'g' de 'inteligente' con su sonido fuerte (/g/) en lugar del correspondiente por la vocal que le sigue (/x/), además de no lograr integrar las palabras."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "Con 13.9 palabras por minuto, la alumna se encuentra en una etapa fonológica inicial, con una lectura muy lenta enfocada en el reconocimiento de letras."
+        }
+      }
+    },
+    "timestamp": "2026-06-22T22:22:40.541986"
+  },
+  {
+    "id_lectura": 52855,
+    "archivo": "lectura_52855_2025-10-29_13-44-16.wav",
+    "modelo": "gemini-pro",
+    "evaluacion": {
+      "palabras_por_minuto": 117.65,
+      "modelo": "gemini-pro",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "El estudiante lee las palabras de manera global y automática, sin evidencia de silabeo ni fragmentación durante la lectura."
+        },
+        "manejo_ritmo": {
+          "nivel": "En proceso",
+          "comentario": "Mantiene una lectura rápida pero monótona, omitiendo los cambios de entonación necesarios en los finales de oración marcados por los puntos."
+        },
+        "manejo_respiracion": {
+          "nivel": "Inicial",
+          "comentario": "No realiza pausas en los signos de puntuación, ya que une las oraciones al pasar por alto los puntos seguidos del texto."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Lee el texto con pocos errores. Solo agrega el artículo 'el' antes de 'oído', lo cual es un error aislado de tipo gramatical y no fonológico."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "Con 117 palabras por minuto, se ubica en la Etapa Expresiva Consolidada."
+        }
+      }
+    },
+    "timestamp": "2026-06-22T22:23:00.096619"
+  },
+  {
+    "id_lectura": 52859,
+    "archivo": "lectura_52859_2025-10-29_14-22-06.wav",
+    "modelo": "gemini-pro",
+    "evaluacion": {
+      "palabras_por_minuto": 23.09,
+      "modelo": "gemini-pro",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "En proceso",
+          "comentario": "El estudiante asocia fonemas y lee sílabas, pero no logra una lectura global en la mayoría de las palabras, recurriendo a un silabeo constante y fragmentado en gran parte del texto."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "La lectura es silabeante y completamente carente de entonación, sin respetar el sentido del texto ni los signos de puntuación."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Realiza múltiples pausas entre palabra y palabra e incluso entre sílabas debido al esfuerzo de decodificación, omitiendo por completo los signos de puntuación como guías para la respiración."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "Presenta múltiples errores donde sustituye o adivina palabras completas (lee 'mujer' en lugar de 'mejor', e intenta adivinar otras como 'animal'). Los errores comprometen la integridad de la palabra original."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "Con 23 palabras por minuto, el estudiante se encuentra en la etapa fonológica inicial, lo que evidencia una decodificación muy lenta y trabajosa."
+        }
+      }
+    },
+    "timestamp": "2026-06-22T22:23:28.553925"
+  },
+  {
+    "id_lectura": 52860,
+    "archivo": "lectura_52860_2025-10-29_14-24-26.wav",
+    "modelo": "gemini-pro",
+    "evaluacion": {
+      "palabras_por_minuto": 63.49,
+      "modelo": "gemini-pro",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "La estudiante lee la mayoría de las palabras de forma global sin silabear abiertamente, pero presenta titubeos y repeticiones al inicio ('Los perros tienen muy bien... Los perros tienen muy buen') y al encontrar dificultad ('o odio o odio'), lo que evidencia una necesidad de apoyo esporádico que descarta el nivel Avanzado."
+        },
+        "manejo_ritmo": {
+          "nivel": "En proceso",
+          "comentario": "La lectura resulta monótona. Si bien no es silabeante en general, carece de los cambios de entonación necesarios para expresar el sentido del texto y no entona hacia abajo al llegar a los puntos."
+        },
+        "manejo_respiracion": {
+          "nivel": "Inicial",
+          "comentario": "No realiza las pausas correspondientes guiadas por los signos de puntuación, pasando de largo en los puntos seguidos que separan las oraciones (ej. junta 'odio' con 'es un animal' y 'fiel' con 'es el mejor')."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "Comete errores al cambiar palabras completas o adivinar incorrectamente, sustituyendo 'y' por 'o', y leyendo 'odio' en lugar de 'oído'. La autocorrección en 'bien' a 'buen' es positiva, pero las demás sustituciones la ubican en este nivel."
+        },
+        "fluidez_lectora": {
+          "nivel": "En proceso",
+          "comentario": "Alcanza una velocidad de 63.5 palabras por minuto, ubicándose en la Etapa Ortográfica (50-70 WPM)."
+        }
+      }
+    },
+    "timestamp": "2026-06-22T22:24:00.408319"
+  },
+  {
+    "id_lectura": 52861,
+    "archivo": "lectura_52861_2025-10-29_14-21-03.wav",
+    "modelo": "gemini-pro",
+    "evaluacion": {
+      "palabras_por_minuto": 22.1,
+      "modelo": "gemini-pro",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El estudiante recurre al silabeo como apoyo principal a lo largo de casi toda la lectura ('pe-rros', 'tie-nen', 'ol-fa-to', 'in-te-li-gen-te', 'a-mi-go'), utilizándolo como estrategia efectiva para decodificar las palabras con éxito, aunque no alcance a leer de forma global la mayoría de ellas."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "La lectura se presenta de forma silabeante, lenta y sin cambios de entonación expresiva o variaciones de tono."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "A pesar de realizar múltiples pausas entre palabras y sílabas por el esfuerzo que requiere la decodificación, el estudiante logra marcar pausas más prolongadas y evidentes en los puntos de cierre de las oraciones."
+        },
+        "precision": {
+          "nivel": "Avanzado",
+          "comentario": "El estudiante lee el texto completo sin errores no corregidos. Tuvo un único error de precisión al leer 'bueno' en lugar de 'buen', pero se autocorrigió de manera inmediata y exitosa en el mismo intento."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "Con un registro de 22 palabras por minuto, la velocidad de lectura se ubica en el rango de 0-49 ppm, correspondiente a la etapa fonológica."
+        }
+      }
+    },
+    "timestamp": "2026-06-22T22:24:35.061295"
+  },
+  {
+    "id_lectura": 52862,
+    "archivo": "lectura_52862_2025-10-29_14-23-25.wav",
+    "modelo": "gemini-pro",
+    "evaluacion": {
+      "palabras_por_minuto": 27.78,
+      "modelo": "gemini-pro",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "Lee de forma global varias de las palabras del texto (como 'perros', 'tienen', 'mejor'), pero recurre marcadamente al silabeo como apoyo para decodificar palabras largas o complejas (por ejemplo, 'animal', 'inteligente', 'amigo')."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "La lectura es marcadamente silabeante y fragmentada por el gran esfuerzo de decodificación, sin lograr ningún tipo de entonación expresiva."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Realiza múltiples pausas entre palabras debido a la necesidad de decodificarlas, perdiendo el hilo conductor y sin que estas pausas estén guiadas por los signos de puntuación."
+        },
+        "precision": {
+          "nivel": "Inicial",
+          "comentario": "Comete errores fonológicos de sustitución de grafemas dentro de una misma palabra. El ejemplo más claro es cuando lee 'duen' en lugar de 'buen', sin realizar una autocorrección posterior."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "Registra una velocidad de 27.8 palabras por minuto, lo cual la ubica en la etapa fonológica (0-49 ppm)."
+        }
+      }
+    },
+    "timestamp": "2026-06-22T22:25:03.410588"
+  },
+  {
+    "id_lectura": 52863,
+    "archivo": "lectura_52863_2025-10-29_14-24-00.wav",
+    "modelo": "gemini-pro",
+    "evaluacion": {
+      "palabras_por_minuto": 49.63,
+      "modelo": "gemini-pro",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El estudiante logra leer de forma global la mayoría de las palabras, pero recurre al silabeo o alargamiento de sonidos como apoyo en algunas palabras puntuales."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "La lectura se presenta de forma silabeante en varias partes, monótona y sin evidencia de entonación expresiva."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Realiza múltiples pausas entre palabras debido al esfuerzo de decodificación, sin guiarse de forma consistente por los signos de puntuación del texto."
+        },
+        "precision": {
+          "nivel": "Avanzado",
+          "comentario": "Lee el texto completo con precisión, decodificando de manera correcta todas las palabras sin presentar errores."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "Con 49.6 palabras por minuto, su fluidez se ubica en el rango de 0-49 WPM, correspondiente a la etapa fonológica."
+        }
+      }
+    },
+    "timestamp": "2026-06-22T22:25:20.486557"
+  },
+  {
+    "id_lectura": 52866,
+    "archivo": "lectura_52866_2025-10-29_14-34-25.wav",
+    "modelo": "gemini-pro",
+    "evaluacion": {
+      "palabras_por_minuto": 15.19,
+      "modelo": "gemini-pro",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "En proceso",
+          "comentario": "El estudiante recurre constantemente al silabeo y al deletreo a lo largo de toda la lectura, logrando asociar consonantes y vocales para formar sílabas pero sin poder leer la mayoría de las palabras de forma global."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "La lectura es marcadamente silabeante y segmentada, lo que impide que haya algún tipo de entonación o fluidez rítmica."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Realiza pausas constantes entre sílabas y palabras debido al gran esfuerzo de decodificación, sin utilizar los signos de puntuación (puntos y comas) como guía para respirar."
+        },
+        "precision": {
+          "nivel": "Inicial",
+          "comentario": "Presenta errores fonológicos a nivel de grafema, sustituyendo o cambiando letras dentro de una misma palabra (por ejemplo, lee 'ol do' en lugar de 'oído', 'oimal' por 'animal', y 'fuel' por 'fiel', aunque logre autocorregir algunas de ellas)."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "Con un ritmo de 15 palabras por minuto, el desempeño se ubica claramente en la etapa fonológica."
+        }
+      }
+    },
+    "timestamp": "2026-06-22T22:25:49.979672"
+  }
+]

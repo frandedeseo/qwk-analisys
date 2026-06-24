@@ -1,0 +1,258 @@
+[
+  {
+    "id_lectura": 52813,
+    "archivo": "lectura_52813_2025-10-29_12-10-26.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "palabras_por_minuto": 97.31,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "El estudiante realiza una lectura global y directa de todas las palabras del texto, sin recurrir a la estrategia silábica ni presentar titubeos, incluso ante términos complejos y de estructura larga como 'tiranosaurio' o 'dinosaurios'."
+        },
+        "manejo_ritmo": {
+          "nivel": "Logrado",
+          "comentario": "La lectura presenta una entonación estable y adecuada, marcando correctamente la caída de tono al finalizar las oraciones en cada punto seguido y aparte, de forma consistente."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "El alumno realiza de manera correcta y natural las pausas correspondientes a los signos de puntuación (puntos seguidos), sin segmentar oraciones ni realizar interrupciones innecesarias para recuperar el aire."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Se observa un desempeño muy alto con un único error aislado de tipo no fonológico: el cambio de 'tenía' por 'tenían' (sustitución de la flexión singular por plural), el cual no altera significativamente la comprensión global del texto."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "Con un registro de 97.3 palabras por minuto, el alumno se posiciona sólidamente en el nivel Avanzado (Etapa Expresiva Consolidada), demostrando una velocidad lectora óptima para su etapa de desarrollo."
+        }
+      }
+    },
+    "timestamp": "2026-06-22T20:42:56.673145"
+  },
+  {
+    "id_lectura": 52872,
+    "archivo": "lectura_52872_2025-10-29_14-48-11.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "palabras_por_minuto": 79.53,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El estudiante realiza una lectura predominantemente global. Sin embargo, ante palabras más complejas o largas se observa un leve titubeo o tropiezo (como al intentar leer 'feroces'/'peligrosos' pronunciando 'fefces'), lo que demuestra que aún requiere apoyos de decodificación puntuales, impidiendo el nivel Avanzado."
+        },
+        "manejo_ritmo": {
+          "nivel": "Logrado",
+          "comentario": "Mantiene un ritmo de lectura estable y entona de forma descendente en los puntos finales y seguidos de manera consistente. No llega al nivel Avanzado dado que no se observa una variación prosódica expresiva y constante de tono y velocidad a lo largo de todo el texto."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "El alumno realiza pausas adecuadas respetando la presencia de puntos y comas en el texto. Esto le permite dosificar el aire de manera correcta sin cortar el sentido de las frases cortas."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Se registran un par de errores aislados que no comprometen la comprensión global: un error fonológico con posterior intento de enmienda ('fefces') y la omisión de la preposición 'a' en la frase 'para atrapar [a] sus presas'."
+        },
+        "fluidez_lectora": {
+          "nivel": "Logrado",
+          "comentario": "Con un registro de 79.5 palabras por minuto (WPM), el estudiante se posiciona firmemente en el nivel Logrado, correspondiente a la etapa de Transición hacia la Lectura Expresiva (rango de 71 a 90 WPM)."
+        }
+      }
+    },
+    "timestamp": "2026-06-22T20:43:20.859302"
+  },
+  {
+    "id_lectura": 52873,
+    "archivo": "lectura_52873_2025-10-29_14-49-27.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "palabras_por_minuto": 112.71,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "El estudiante no utiliza la estrategia silábica en ningún momento de la lectura. Muestra una decodificación global y automatizada de todas las palabras, incluso las más complejas y extensas como 'Tiranosaurio'."
+        },
+        "manejo_ritmo": {
+          "nivel": "Logrado",
+          "comentario": "El alumno realiza una entonación hacia abajo en los puntos finales de manera clara y consistente. Sin embargo, no llega al nivel avanzado dado que el tono general se mantiene estable sin variaciones expresivas o de velocidad significativas a lo largo de las oraciones."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "Hace pausas adecuadas y consistentes en los puntos seguidos para dosificar el aire. No se evidencian micropausas estratégicas antes de conectores en oraciones largas que justifiquen un nivel avanzado."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "El estudiante realiza una lectura muy precisa, cometiendo un único error menor no fonológico al pluralizar la palabra 'tierra' ('tierras'), lo cual no altera el sentido general del texto."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "Con un registro de 112.7 palabras por minuto (WPM), el estudiante se ubica cómodamente en la Etapa Expresiva Consolidada, superando el umbral de 90 WPM."
+        }
+      }
+    },
+    "timestamp": "2026-06-22T20:43:39.641574"
+  },
+  {
+    "id_lectura": 52874,
+    "archivo": "lectura_52874_2025-10-29_14-48-50.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "palabras_por_minuto": 87.04,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El estudiante demuestra una lectura predominantemente global. Recurre de forma aislada a la rectificación en palabras complejas como 'tiranosaurio', lo cual es propio del nivel Logrado."
+        },
+        "manejo_ritmo": {
+          "nivel": "Logrado",
+          "comentario": "Mantiene un ritmo estable durante la lectura y realiza de forma consistente la entonación descendente al final de las oraciones marcadas por los puntos."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "Realiza las pausas correspondientes guiándose adecuadamente por los signos de puntuación (puntos y comas), logrando una adecuada coordinación fonorrespiratoria."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Comete únicamente dos errores menores y aislados (la adición de 'También' y la sustitución del grafema 'n' por 'r' en 'sor'), además de una autocorrección inmediata en 'tiranosaurio' que evidencia un buen autocontrol lector."
+        },
+        "fluidez_lectora": {
+          "nivel": "Logrado",
+          "comentario": "Alcanza una velocidad de 87 palabras por minuto (WPM), lo que lo sitúa en la Etapa de Transición hacia la Expresiva."
+        }
+      }
+    },
+    "timestamp": "2026-06-22T20:44:04.750105"
+  },
+  {
+    "id_lectura": 52877,
+    "archivo": "lectura_52877_2025-10-29_15-00-00.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "palabras_por_minuto": 121.76,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "La estudiante lee de manera global la gran mayoría de las palabras del texto. No obstante, al encontrarse con la palabra de alta complejidad 'Tiranosaurio', realiza un leve titubeo y fragmentación inicial ('te-au...') antes de recomponerla. Al recurrir a la estrategia silábica como apoyo en este término complejo, se sitúa en el nivel Logrado."
+        },
+        "manejo_ritmo": {
+          "nivel": "Logrado",
+          "comentario": "Muestra una lectura con un ritmo constante y desenvuelto. Realiza una entonación descendente adecuada al llegar a los puntos seguidos. Sin embargo, no alcanza el nivel Avanzado debido a que la entonación se mantiene mayormente neutra y uniforme a lo largo del texto, sin variaciones prosódicas o matices expresivos significativos."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "La alumna administra correctamente el aire haciendo pausas bien definidas en los puntos finales y seguidos de cada oración. No se registran las micropausas en conectores de oraciones largas requeridas para el nivel Avanzado, pero cumple con solidez el respeto por los signos de puntuación."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Muestra una precisión notable. Resuelve de forma inmediata y mediante autocorrección el tropiezo con 'Tiranosaurio' (lo cual no cuenta como error). Registra una única omisión menor de letra al leer 'salvajes' como 'salvaje'. Al cometer este error aislado que no altera el sentido global, se ubica en el nivel Logrado."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "Con un registro de 121.8 palabras por minuto (WPM), la estudiante se posiciona de forma excelente en el nivel Avanzado, correspondiente a la Etapa Expresiva Consolidada (rango de 90 a 200 WPM)."
+        }
+      }
+    },
+    "timestamp": "2026-06-22T20:44:25.709993"
+  },
+  {
+    "id_lectura": 52879,
+    "archivo": "lectura_52879_2025-10-29_14-59-27.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "palabras_por_minuto": 123.36,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "La alumna demuestra una lectura completamente globalizada, decodificando de forma directa y fluida sin recurrir al silabeo en ninguna de las palabras, incluso en aquellas de mayor complejidad fonológica como 'Tiranosaurio'."
+        },
+        "manejo_ritmo": {
+          "nivel": "Logrado",
+          "comentario": "Presenta una lectura con entonación adecuada, marcando de forma clara y consistente la inflexión de la voz hacia abajo al llegar a los puntos seguidos."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "Realiza las pausas de manera correcta respetando la puntuación (puntos y comas), lo cual le permite mantener un adecuado patrón respiratorio durante la lectura."
+        },
+        "precision": {
+          "nivel": "Avanzado",
+          "comentario": "La lectura es sumamente precisa, sin registrarse sustituciones, omisiones, adiciones ni errores de tipo fonológico o de palabra completa."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "Con un registro de 123 WPM, la alumna se posiciona de forma sólida en el nivel Avanzado (Etapa Expresiva Consolidada), demostrando un ritmo ágil y constante."
+        }
+      }
+    },
+    "timestamp": "2026-06-22T22:17:45.523967"
+  },
+  {
+    "id_lectura": 52880,
+    "archivo": "lectura_52880_2025-10-29_14-58-53.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "palabras_por_minuto": 122.72,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "La estudiante no utiliza la estrategia silábica en ningún momento de la lectura. Realiza una decodificación global y directa de todas las palabras, incluso las más complejas como 'tiranosaurio'."
+        },
+        "manejo_ritmo": {
+          "nivel": "Logrado",
+          "comentario": "Muestra una lectura fluida con entonación adecuada, marcando el descenso de tono de forma clara y consistente al finalizar las oraciones en los puntos correspondientes."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "Respeta los signos de puntuación del texto realizando de manera sistemática las pausas en los puntos, lo que le permite una adecuada dosificación del aire."
+        },
+        "precision": {
+          "nivel": "Inicial",
+          "comentario": "Se detectan dos errores de precisión: una sustitución de palabra ('vivieron' por 'vieron') y un error fonológico a nivel de grafema al sustituir una letra en 'filosos' por 'felosos'. La presencia de este último error de grafema clasifica este criterio en nivel Inicial según la rúbrica."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "Con un registro de 122.7 palabras por minuto, la alumna se ubica firmemente en el nivel Avanzado, correspondiente a la Etapa Expresiva Consolidada."
+        }
+      }
+    },
+    "timestamp": "2026-06-22T22:18:19.104338"
+  },
+  {
+    "id_lectura": 52881,
+    "archivo": "lectura_52881_2025-10-29_14-58-16.wav",
+    "modelo": "gemini-flash",
+    "evaluacion": {
+      "palabras_por_minuto": 89.02,
+      "modelo": "gemini-flash",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "El estudiante realiza una lectura completamente global. No se evidencia el uso de estrategia silábica ni fragmentación de palabras en ningún momento de la lectura, logrando decodificar palabras complejas de forma directa."
+        },
+        "manejo_ritmo": {
+          "nivel": "Logrado",
+          "comentario": "El alumno lee con un ritmo constante y entona de manera descendente al llegar a los puntos. No obstante, mantiene un tono predominantemente uniforme sin la variación prosódica expresiva que caracteriza al nivel avanzado."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "Realiza pausas claras y consistentes en los puntos seguidos y finales, regulando de forma adecuada su respiración sin perder el hilo de la lectura."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Comete una sustitución aislada al leer 'viven' en lugar de 'vivieron' (cambio de tiempo verbal que no altera drásticamente el sentido), y presenta leves vacilaciones con repetición ('de los de los', 'y grandes garras'), lo cual se clasifica como nivel logrado."
+        },
+        "fluidez_lectora": {
+          "nivel": "Logrado",
+          "comentario": "Con un registro de 89 palabras por minuto, el estudiante se ubica en el rango de 71-90 WPM, correspondiente a la etapa de transición hacia la lectura expresiva."
+        }
+      }
+    },
+    "timestamp": "2026-06-22T22:18:42.464416"
+  }
+]

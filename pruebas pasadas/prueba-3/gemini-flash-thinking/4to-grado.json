@@ -1,0 +1,258 @@
+[
+  {
+    "id_lectura": 52603,
+    "archivo": "lectura_52603_2025-10-24_13-31-33.wav",
+    "modelo": "gemini-flash-thinking",
+    "evaluacion": {
+      "palabras_por_minuto": 77.71,
+      "modelo": "gemini-flash-thinking",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El estudiante utiliza la lectura de forma global para la mayoría del texto, pero recurre a la estrategia silábica como un recurso de apoyo necesario ante palabras largas o de mayor complejidad fonológica como 'comportamiento', 'escasez', 'intercepta' y 'cabeza'."
+        },
+        "manejo_ritmo": {
+          "nivel": "En proceso",
+          "comentario": "La lectura resulta monótona y el ritmo se ve interrumpido constantemente debido a las pausas y vacilaciones causadas por el esfuerzo de decodificación, lo que impide un fraseo fluido y natural."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "El alumno realiza las pausas correspondientes en los puntos y comas del texto. Aunque presenta interrupciones adicionales por dificultades de decodificación, estas no penalizan su desempeño ya que demuestra integrar la puntuación en su lectura."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Muestra un desempeño global adecuado con solo dos errores de precisión aislados a nivel de grafema (lee 'pulumas' y 'plunas' en vez de 'plumas'). Al no alterar la comprensión general ni constituir un patrón masivo, califica en este nivel."
+        },
+        "fluidez_lectora": {
+          "nivel": "Logrado",
+          "comentario": "Con un ritmo de 77.7 WPM (palabras por minuto), el estudiante se ubica en el nivel Logrado, situándose en la etapa de transición hacia una lectura expresiva y consolidada."
+        }
+      }
+    },
+    "timestamp": "2026-06-23T22:45:15.532642"
+  },
+  {
+    "id_lectura": 52605,
+    "archivo": "lectura_52605_2025-10-24_13-29-49.wav",
+    "modelo": "gemini-flash-thinking",
+    "evaluacion": {
+      "palabras_por_minuto": 101.21,
+      "modelo": "gemini-flash-thinking",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El estudiante demuestra una lectura mayoritariamente global, aunque recurre a la fragmentación silábica como estrategia de apoyo ante vacilaciones en palabras como 'intercepta' y 'despierto'."
+        },
+        "manejo_ritmo": {
+          "nivel": "Avanzado",
+          "comentario": "Mantiene un ritmo fluido y natural que supera las 90 palabras por minuto, demostrando una entonación descendente adecuada y consistente al finalizar las oraciones."
+        },
+        "manejo_respiracion": {
+          "nivel": "Avanzado",
+          "comentario": "Las pausas se realizan de forma coordinada en los puntos y comas, logrando que la respiración fluya con naturalidad y acompañe el sentido de la lectura sin esfuerzo visible."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Presenta un buen desempeño general con algunas adiciones y sustituciones menores, además de autocorreciones inmediatas que evidencian un monitoreo activo del texto sin afectar la comprensión."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "Con un registro de 101.2 palabras por minuto, el estudiante se posiciona de forma excelente en la Etapa Expresiva Consolidada."
+        }
+      }
+    },
+    "timestamp": "2026-06-23T22:45:39.352369"
+  },
+  {
+    "id_lectura": 52628,
+    "archivo": "lectura_52628_2025-10-24_14-31-55.wav",
+    "modelo": "gemini-flash-thinking",
+    "evaluacion": {
+      "palabras_por_minuto": 82.1,
+      "modelo": "gemini-flash-thinking",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El estudiante lee la mayoría de las palabras de forma global, pero recurre al silabeo como estrategia de apoyo al abordar términos más largos o complejos como 'comportamiento' y 'escasez'."
+        },
+        "manejo_ritmo": {
+          "nivel": "Logrado",
+          "comentario": "Presenta una entonación descendente clara y consistente en los puntos finales y seguidos. Aunque lee a una velocidad sostenida y adecuada, aún requiere mayor variación prosódica dentro de las oraciones para alcanzar un ritmo totalmente natural y expresivo."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "Respeta las pausas indicadas por los puntos y comas a lo largo del texto. Las pequeñas interrupciones o pausas adicionales que realiza se deben a la decodificación de palabras complejas y no afectan la estructura de la puntuación."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Mantiene una lectura fiel al texto original con un nivel alto de precisión. Registra únicamente vacilaciones aisladas al decodificar palabras complejas y una pequeña repetición ('a diferencia') que no altera el significado global."
+        },
+        "fluidez_lectora": {
+          "nivel": "Logrado",
+          "comentario": "Con un registro de 82.1 WPM, el alumno se sitúa en el rango de 71-90 WPM, lo que corresponde a la Etapa de Transición hacia la Expresiva, demostrando un ritmo fluido y estable."
+        }
+      }
+    },
+    "timestamp": "2026-06-23T22:45:56.974213"
+  },
+  {
+    "id_lectura": 52701,
+    "archivo": "lectura_52701_2025-10-27_14-28-26.wav",
+    "modelo": "gemini-flash-thinking",
+    "evaluacion": {
+      "palabras_por_minuto": 125.0,
+      "modelo": "gemini-flash-thinking",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "La estudiante realiza una lectura global y directa de todas las palabras. No requiere del silabeo en ningún momento, mostrando solidez incluso ante palabras de mayor longitud y complejidad fonológica como 'comportamiento' o 'intercepta'."
+        },
+        "manejo_ritmo": {
+          "nivel": "Avanzado",
+          "comentario": "La lectura es fluida, expresiva y con un ritmo sostenido muy natural. Modula correctamente la entonación y desciende el tono en los puntos de manera consistente, evitando caer en una lectura mecánica."
+        },
+        "manejo_respiracion": {
+          "nivel": "Avanzado",
+          "comentario": "Respeta con precisión las pausas determinadas por las comas y los puntos. La respiración se integra de forma orgánica con el sentido de las oraciones, demostrando un excelente control sin signos de fatiga o interrupciones inapropiadas."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "Muestra un alto nivel de precisión en casi la totalidad del texto. Se registra un leve titubeo corregido ('al es... al haber') y un único error de sustitución de letra al final del texto, donde lee 'posea' en lugar de 'posee'. Al ser una imprecisión aislada que no compromete la comprensión global, califica en nivel Logrado."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "Con un registro de 125 WPM, se posiciona sólidamente en la Etapa Expresiva Consolidada (rango de 90 a 200 WPM), demostrando una gran automatización de los procesos decodificadores."
+        }
+      }
+    },
+    "timestamp": "2026-06-23T22:46:20.230014"
+  },
+  {
+    "id_lectura": 52702,
+    "archivo": "lectura_52702_2025-10-27_14-27-02.wav",
+    "modelo": "gemini-flash-thinking",
+    "evaluacion": {
+      "palabras_por_minuto": 117.99,
+      "modelo": "gemini-flash-thinking",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "La alumna demuestra una lectura global consolidada. No recurre a la estrategia silábica en ningún momento, decodificando de manera directa e inmediata incluso las palabras más extensas o complejas del texto como 'comportamiento' e 'intercepta'."
+        },
+        "manejo_ritmo": {
+          "nivel": "Avanzado",
+          "comentario": "Mantiene un ritmo sostenido, fluido y natural a lo largo de todo el texto. Logra una entonación descendente y consistente en los puntos seguidos y aparte, evitando la lectura plana o monótona gracias a una prosodia básica sumamente adecuada."
+        },
+        "manejo_respiracion": {
+          "nivel": "Avanzado",
+          "comentario": "La respiración acompaña de manera completamente orgánica el transcurso de la lectura. Realiza las pausas correspondientes en comas y puntos de forma natural, lo que le permite sostener una velocidad alta sin esfuerzo visible."
+        },
+        "precision": {
+          "nivel": "Logrado",
+          "comentario": "La lectura es altamente precisa, cometiendo únicamente dos ligeras vacilaciones o sustituciones menores al inicio del texto ('bue' por 'búho' y 'una' por 'un'). Al tratarse de errores aislados que no afectan la comprensión global, su desempeño se sitúa firmemente en este nivel."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "Con un registro de 118 WPM, la estudiante se ubica de forma destacada en el rango Avanzado, consolidando la Etapa Expresiva al superar con creces el umbral mínimo de 90 palabras por minuto."
+        }
+      }
+    },
+    "timestamp": "2026-06-23T22:46:40.713987"
+  },
+  {
+    "id_lectura": 52712,
+    "archivo": "lectura_52712_2025-10-27_14-57-44.wav",
+    "modelo": "gemini-flash-thinking",
+    "evaluacion": {
+      "palabras_por_minuto": 94.28,
+      "modelo": "gemini-flash-thinking",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "El estudiante demuestra una lectura global consolidada, sin presentar vacilaciones ni recurrir al silabeo en palabras complejas como 'comportamiento' o 'intercepta'."
+        },
+        "manejo_ritmo": {
+          "nivel": "Avanzado",
+          "comentario": "Muestra un ritmo de lectura fluido y natural de 94.3 WPM, logrando una entonación descendente adecuada en los puntos y un tono expresivo no mecánico."
+        },
+        "manejo_respiracion": {
+          "nivel": "Avanzado",
+          "comentario": "Realiza las pausas de manera espontánea en la puntuación, manteniendo un flujo de aire constante y natural que no interrumpe la decodificación."
+        },
+        "precision": {
+          "nivel": "Avanzado",
+          "comentario": "La lectura es totalmente precisa, sin registrarse errores de omisión, sustitución o distorsión de las palabras del texto original."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "Con una velocidad de 94.3 WPM, el estudiante se posiciona en el nivel Avanzado, correspondiente a la Etapa Expresiva Consolidada."
+        }
+      }
+    },
+    "timestamp": "2026-06-23T22:47:01.394199"
+  },
+  {
+    "id_lectura": 52714,
+    "archivo": "lectura_52714_2025-10-27_15-00-06.wav",
+    "modelo": "gemini-flash-thinking",
+    "evaluacion": {
+      "palabras_por_minuto": 83.33,
+      "modelo": "gemini-flash-thinking",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El estudiante lee de manera global la gran mayoría de las palabras del texto, pero recurre al silabeo como estrategia de apoyo al abordar términos más largos o complejos como 'comportamiento', 'escasez' e 'intercepta'. Debido a este silabeo puntual, el nivel máximo alcanzable es Logrado."
+        },
+        "manejo_ritmo": {
+          "nivel": "Logrado",
+          "comentario": "Presenta una entonación adecuada, marcando de forma clara la inflexión descendente en los puntos y respetando las pausas de las comas. Aunque el silabeo en palabras complejas interrumpe momentáneamente la fluidez, el ritmo general no es monótono ni mecánico."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "El alumno realiza las pausas correspondientes en los puntos y comas del texto. Las pausas adicionales registradas se asocian directamente al esfuerzo de decodificación de palabras largas, lo cual es esperable y no penaliza la correcta integración de los signos de puntuación."
+        },
+        "precision": {
+          "nivel": "Avanzado",
+          "comentario": "La lectura es sumamente precisa. El estudiante no comete errores de sustitución, omisión o adición de letras ni de palabras, logrando decodificar correctamente la totalidad del texto."
+        },
+        "fluidez_lectora": {
+          "nivel": "Logrado",
+          "comentario": "Con un registro de 83.3 palabras por minuto (WPM), el estudiante se ubica en el rango de Logrado (71-90 WPM), correspondiente a la etapa de Transición hacia la Expresiva."
+        }
+      }
+    },
+    "timestamp": "2026-06-23T22:47:29.534810"
+  },
+  {
+    "id_lectura": 52942,
+    "archivo": "lectura_52942_2025-11-03_12-42-44.wav",
+    "modelo": "gemini-flash-thinking",
+    "evaluacion": {
+      "palabras_por_minuto": 38.29,
+      "modelo": "gemini-flash-thinking",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El alumno ya lee de manera global palabras conocidas y cortas, pero recurre frecuentemente a la estrategia silábica como apoyo indispensable para decodificar términos de mayor complejidad o longitud, tales como comportamiento, intercepta, despierto o confundidas."
+        },
+        "manejo_ritmo": {
+          "nivel": "Inicial",
+          "comentario": "La lectura es marcadamente fragmentada, silabeante y monótona. El constante esfuerzo por decodificar impide establecer un ritmo continuo o aplicar cualquier tipo de entonación adecuada al texto."
+        },
+        "manejo_respiracion": {
+          "nivel": "En proceso",
+          "comentario": "Se realizan pausas continuas entre palabra y palabra causadas por la dificultad en la decodificación, perdiéndose la correspondencia con los signos de puntuación como puntos y comas."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "El estudiante comete errores de sustitución y adivinación a nivel de palabra completa (por ejemplo, lee escucharse en lugar de escasez, y titubea con lucha antes de lechuza). También realiza múltiples intentos no exitosos de manera inmediata antes de consolidar palabras como poseen o cabeza."
+        },
+        "fluidez_lectora": {
+          "nivel": "Inicial",
+          "comentario": "El registro de 38.3 WPM sitúa al estudiante en el nivel Inicial, propio de la etapa fonológica, donde predomina una decodificación lenta que limita la velocidad de lectura."
+        }
+      }
+    },
+    "timestamp": "2026-06-23T22:48:01.323712"
+  }
+]

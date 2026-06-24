@@ -1,0 +1,258 @@
+[
+  {
+    "id_lectura": 52813,
+    "archivo": "lectura_52813_2025-10-29_12-10-26.wav",
+    "modelo": "openai-audio",
+    "evaluacion": {
+      "palabras_por_minuto": 97.31,
+      "modelo": "openai-audio",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "El alumno no recurrió al silabeo en ningún momento de la lectura, ni siquiera en palabras largas o complejas."
+        },
+        "manejo_ritmo": {
+          "nivel": "Logrado",
+          "comentario": "El alumno entona para abajo en los puntos y comas de forma clara y consistente, pero no hay suficiente variación prosódica expresiva a lo largo de todo el texto para alcanzar el nivel avanzado."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "El alumno hace pausas en puntos y comas, pero no se evidencian micropausas adicionales en oraciones largas para mantener la coherencia del sentido."
+        },
+        "precision": {
+          "nivel": "Avanzado",
+          "comentario": "El alumno lee sin errores, manteniendo la precisión en todo el texto."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "El alumno leyó a una velocidad de 97.3 palabras por minuto, lo que corresponde a la etapa expresiva consolidada."
+        }
+      }
+    },
+    "timestamp": "2026-06-22T22:43:52.795135"
+  },
+  {
+    "id_lectura": 52872,
+    "archivo": "lectura_52872_2025-10-29_14-48-11.wav",
+    "modelo": "openai-audio",
+    "evaluacion": {
+      "palabras_por_minuto": 79.53,
+      "modelo": "openai-audio",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El alumno recurrió al silabeo en la palabra 'feroces', lo que indica que utiliza la estrategia silábica como apoyo en palabras complejas."
+        },
+        "manejo_ritmo": {
+          "nivel": "En proceso",
+          "comentario": "La lectura fue mayormente monótona, sin variación de entonación a lo largo del texto."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "El alumno hizo pausas en los puntos, aunque también hubo pausas adicionales entre palabras."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "El alumno cambió la palabra 'feroces' por 'feroces' con silabeo y titubeo, y 'filosos' por 'filosos' con titubeo, lo que indica errores a nivel de palabra."
+        },
+        "fluidez_lectora": {
+          "nivel": "Logrado",
+          "comentario": "Con 79.5 palabras por minuto, el alumno se encuentra en la etapa de transición hacia expresiva."
+        }
+      }
+    },
+    "timestamp": "2026-06-22T22:43:59.907474"
+  },
+  {
+    "id_lectura": 52873,
+    "archivo": "lectura_52873_2025-10-29_14-49-27.wav",
+    "modelo": "openai-audio",
+    "evaluacion": {
+      "palabras_por_minuto": 112.71,
+      "modelo": "openai-audio",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El alumno lee de forma global la mayoría de las palabras, pero muestra un leve titubeo en 'dinosaurios', lo que indica uso de la estrategia silábica como apoyo."
+        },
+        "manejo_ritmo": {
+          "nivel": "Logrado",
+          "comentario": "El alumno entona para abajo en los puntos y comas de forma clara y consistente, pero no hay suficiente variación prosódica para considerarlo avanzado."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "El alumno hace pausas en puntos y comas, pero no se observan micropausas adicionales en oraciones largas."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "El alumno cambia palabras completas como 'tierra' por 'tierras' y 'atrapar' por 'atovar', lo que indica errores a nivel de palabra."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "El alumno lee a 112.7 palabras por minuto, lo que corresponde a la etapa expresiva consolidada."
+        }
+      }
+    },
+    "timestamp": "2026-06-22T22:44:06.826748"
+  },
+  {
+    "id_lectura": 52874,
+    "archivo": "lectura_52874_2025-10-29_14-48-50.wav",
+    "modelo": "openai-audio",
+    "evaluacion": {
+      "palabras_por_minuto": 87.04,
+      "modelo": "openai-audio",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El alumno leyó la mayoría de las palabras de forma global, pero recurrió al silabeo en 'el Tiranosaurio'."
+        },
+        "manejo_ritmo": {
+          "nivel": "En proceso",
+          "comentario": "La lectura fue monótona sin variación de entonación, aunque no silabeó las palabras."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "El alumno hizo pausas en los puntos y comas, aunque también hubo pausas adicionales entre palabras."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "El alumno cambió palabras completas como 'los' por 'la' y 'grandes garras' por 'grandes garras para tapar sus presas'."
+        },
+        "fluidez_lectora": {
+          "nivel": "Logrado",
+          "comentario": "El alumno leyó a una velocidad de 87 palabras por minuto, lo que corresponde a la etapa de transición hacia expresiva."
+        }
+      }
+    },
+    "timestamp": "2026-06-22T22:44:13.523569"
+  },
+  {
+    "id_lectura": 52877,
+    "archivo": "lectura_52877_2025-10-29_15-00-00.wav",
+    "modelo": "openai-audio",
+    "evaluacion": {
+      "palabras_por_minuto": 121.76,
+      "modelo": "openai-audio",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El alumno no silabeó de forma evidente, pero hubo un leve titubeo en 'dientes' que indica uso de la estrategia silábica como apoyo."
+        },
+        "manejo_ritmo": {
+          "nivel": "En proceso",
+          "comentario": "La lectura fue mayormente monótona, sin variaciones expresivas de entonación a lo largo del texto."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "El alumno hizo pausas en los puntos y comas, aunque también hubo pausas adicionales entre algunas palabras."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "El alumno cambió palabras completas: 'eran animales salvajes' se leyó como 'eran animales salvaje', 'muy feroces' como 'muy ferosas', y 'grandes garras' como 'grandes dos'."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "La velocidad de lectura fue de 121.8 palabras por minuto, lo que corresponde a la etapa expresiva consolidada."
+        }
+      }
+    },
+    "timestamp": "2026-06-22T22:44:21.973574"
+  },
+  {
+    "id_lectura": 52879,
+    "archivo": "lectura_52879_2025-10-29_14-59-27.wav",
+    "modelo": "openai-audio",
+    "evaluacion": {
+      "palabras_por_minuto": 123.36,
+      "modelo": "openai-audio",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El alumno lee de forma global la mayoría de las palabras, pero recurre al silabeo en algunas palabras como 'dinosaurios' y 'Tiranosaurio'."
+        },
+        "manejo_ritmo": {
+          "nivel": "Logrado",
+          "comentario": "El alumno entona para abajo en los puntos y comas de forma clara y consistente, pero no hay suficiente variación prosódica para considerarlo avanzado."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "El alumno hace pausas en puntos y comas, aunque también realiza pausas adicionales entre algunas palabras."
+        },
+        "precision": {
+          "nivel": "Avanzado",
+          "comentario": "El alumno lee el texto sin errores, manteniendo la precisión en todas las palabras."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "Con 123.4 palabras por minuto, el alumno se encuentra en la etapa expresiva consolidada."
+        }
+      }
+    },
+    "timestamp": "2026-06-22T22:44:43.427441"
+  },
+  {
+    "id_lectura": 52880,
+    "archivo": "lectura_52880_2025-10-29_14-58-53.wav",
+    "modelo": "openai-audio",
+    "evaluacion": {
+      "palabras_por_minuto": 122.72,
+      "modelo": "openai-audio",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Avanzado",
+          "comentario": "El alumno no recurrió al silabeo en ningún momento de la lectura, ni siquiera en palabras largas o complejas."
+        },
+        "manejo_ritmo": {
+          "nivel": "Logrado",
+          "comentario": "El alumno entona para abajo en los puntos y comas de forma clara y consistente, pero no varía el tono de manera expresiva a lo largo de todo el texto."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "El alumno hace pausas en puntos y comas, pero no se evidencian micropausas adicionales en oraciones largas."
+        },
+        "precision": {
+          "nivel": "Avanzado",
+          "comentario": "El alumno lee sin errores ni autocorrecciones."
+        },
+        "fluidez_lectora": {
+          "nivel": "Avanzado",
+          "comentario": "El alumno leyó a una velocidad de 122.7 palabras por minuto, lo que corresponde a la etapa expresiva consolidada."
+        }
+      }
+    },
+    "timestamp": "2026-06-22T22:44:49.464828"
+  },
+  {
+    "id_lectura": 52881,
+    "archivo": "lectura_52881_2025-10-29_14-58-16.wav",
+    "modelo": "openai-audio",
+    "evaluacion": {
+      "palabras_por_minuto": 89.02,
+      "modelo": "openai-audio",
+      "evaluacion": {
+        "estrategia_silabica": {
+          "nivel": "Logrado",
+          "comentario": "El alumno lee de forma global la mayoría de las palabras, pero recurre al silabeo en palabras largas o complejas como 'dinosaurios'."
+        },
+        "manejo_ritmo": {
+          "nivel": "Logrado",
+          "comentario": "El alumno entona para abajo en los puntos y comas de forma clara y consistente, pero no hay variación expresiva a lo largo de todo el texto."
+        },
+        "manejo_respiracion": {
+          "nivel": "Logrado",
+          "comentario": "El alumno hace pausas en puntos y comas, aunque también realiza pausas adicionales entre algunas palabras."
+        },
+        "precision": {
+          "nivel": "En proceso",
+          "comentario": "El alumno cambia palabras completas, por ejemplo, 'vivieron' por 'viven' y 'hace' por 'hacen'."
+        },
+        "fluidez_lectora": {
+          "nivel": "Logrado",
+          "comentario": "El alumno lee a una velocidad de 89 palabras por minuto, lo que corresponde a la etapa de transición hacia expresiva."
+        }
+      }
+    },
+    "timestamp": "2026-06-22T22:44:56.123275"
+  }
+]
